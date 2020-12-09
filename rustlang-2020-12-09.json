@@ -1,0 +1,3502 @@
+[
+  {
+    "url": "https://github.com/996icu/996.ICU",
+    "repo": "996.ICU",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "star": "253k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rust-lang/rust",
+    "repo": "rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "star": "50.1k",
+    "keywords": "rust compiler"
+  },
+  {
+    "url": "https://github.com/alacritty/alacritty",
+    "repo": "alacritty",
+    "desc": "A cross-platform, GPU-accelerated terminal emulator",
+    "star": "28.4k",
+    "keywords": "terminal-emulators macos gpu windows linux rust terminal opengl bsd vte"
+  },
+  {
+    "url": "https://github.com/sharkdp/bat",
+    "repo": "bat",
+    "desc": "A cat(1) clone with wings.",
+    "star": "24.1k",
+    "keywords": "syntax-highlighting git rust cli terminal command-line tool hacktoberfest"
+  },
+  {
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "repo": "ripgrep",
+    "desc": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "star": "22.8k",
+    "keywords": "ripgrep gitignore search cli command-line regex recursively-search command-line-tool grep"
+  },
+  {
+    "url": "https://github.com/servo/servo",
+    "repo": "servo",
+    "desc": "The Servo Browser Engine",
+    "star": "18.8k",
+    "keywords": "servo rust browser"
+  },
+  {
+    "url": "https://github.com/xi-editor/xi-editor",
+    "repo": "xi-editor",
+    "desc": "A modern editor with a backend written in Rust.",
+    "star": "18.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rust-unofficial/awesome-rust",
+    "repo": "awesome-rust",
+    "desc": "A curated list of Rust code and resources.",
+    "star": "17.8k",
+    "keywords": "rust awesome"
+  },
+  {
+    "url": "https://github.com/sharkdp/fd",
+    "repo": "fd",
+    "desc": "A simple, fast and user-friendly alternative to 'find'",
+    "star": "15.7k",
+    "keywords": "search rust cli terminal command-line tool filesystem regex"
+  },
+  {
+    "url": "https://github.com/libra/diem",
+    "repo": "diem",
+    "desc": "Diem’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of peo…",
+    "star": "15.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/yewstack/yew",
+    "repo": "yew",
+    "desc": "Rust / Wasm framework for building client web apps",
+    "star": "14.1k",
+    "keywords": "rust gui web jsx elm concurrency wasm web-framework multithreading emscripten asmjs webworkers"
+  },
+  {
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "repo": "firecracker",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "star": "13.3k",
+    "keywords": "rust open-source serverless containers virtual-machine sandbox virtualization minimalist oversubscription"
+  },
+  {
+    "url": "https://github.com/rust-lang/rustlings",
+    "repo": "rustlings",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "star": "13.2k",
+    "keywords": "rustlings rust beginner-friendly"
+  },
+  {
+    "url": "https://github.com/starship/starship",
+    "repo": "starship",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "star": "12.7k",
+    "keywords": "starship zsh powershell bash rust fish oh-my-zsh zsh-theme shell-prompt fish-theme zsh-prompt fish-prompt"
+  },
+  {
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "repo": "Rocket",
+    "desc": "A web framework for Rust.",
+    "star": "12k",
+    "keywords": "rocket rust framework web-development web web-framework"
+  },
+  {
+    "url": "https://github.com/ogham/exa",
+    "repo": "exa",
+    "desc": "A modern replacement for ‘ls’.",
+    "star": "11.5k",
+    "keywords": "rust command-line ls"
+  },
+  {
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "repo": "MeiliSearch",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "star": "10.4k",
+    "keywords": "search-engine typo-tolerance synonyms rust database highlighting instant hacktoberfest site-search entreprise-search"
+  },
+  {
+    "url": "https://github.com/tokio-rs/tokio",
+    "repo": "tokio",
+    "desc": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "star": "10.1k",
+    "keywords": "rust asynchronous networking"
+  },
+  {
+    "url": "https://github.com/valeriansaliou/sonic",
+    "repo": "sonic",
+    "desc": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "star": "10.1k",
+    "keywords": "search infrastructure rust search-engine database server backend graph index search-server"
+  },
+  {
+    "url": "https://github.com/swc-project/swc",
+    "repo": "swc",
+    "desc": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescr…",
+    "star": "9.9k",
+    "keywords": "swc rust babel typescript javascript parser compiler ecmascript closure-compiler typescript-compiler typescript-parser ecmascript-parser"
+  },
+  {
+    "url": "https://github.com/actix/actix-web",
+    "repo": "actix-web",
+    "desc": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+    "star": "9.9k",
+    "keywords": "actix-web websockets rust web-development web async actix"
+  },
+  {
+    "url": "https://github.com/nushell/nushell",
+    "repo": "nushell",
+    "desc": "A new type of shell",
+    "star": "8.9k",
+    "keywords": "shell rust"
+  },
+  {
+    "url": "https://github.com/atom-archive/xray",
+    "repo": "xray",
+    "desc": "An experimental next-generation Electron-based text editor",
+    "star": "8.6k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/tikv/tikv",
+    "repo": "tikv",
+    "desc": "Distributed transactional key-value database, originally created to complement TiDB",
+    "star": "8.4k",
+    "keywords": "tikv tidb distributed-transactions cncf rust rocksdb key-value raft consensus hacktoberfest"
+  },
+  {
+    "url": "https://github.com/denisidoro/navi",
+    "repo": "navi",
+    "desc": "An interactive cheatsheet tool for the command-line and application launchers",
+    "star": "8.1k",
+    "keywords": "cheatsheets shell bash rust cli snippets terminal command-line snippet hacktoberfest"
+  },
+  {
+    "url": "https://github.com/analysis-tools-dev/static-analysis",
+    "repo": "static-analysis",
+    "desc": "A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.",
+    "star": "8k",
+    "keywords": "static-analysis static-analyzers static-code-analysis linter awesome-list code-quality hacktoberfest sast"
+  },
+  {
+    "url": "https://github.com/hecrj/iced",
+    "repo": "iced",
+    "desc": "A cross-platform GUI library for Rust, inspired by Elm",
+    "star": "7.9k",
+    "keywords": "elm rust widgets gui widget interface toolkit graphics user-interface renderer-agnostic"
+  },
+  {
+    "url": "https://github.com/tauri-apps/tauri",
+    "repo": "tauri",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "star": "7.4k",
+    "keywords": "rust webview high-performance hacktoberfest works-with-quasar works-with-vue works-with-gatsby works-with-svelte works-with-react works-with-phaser works-with-yew works-with-reason works-with-mint works-with-construct works-with-flutter works-with-elm works-with-clojurescript"
+  },
+  {
+    "url": "https://github.com/Rigellute/spotify-tui",
+    "repo": "spotify-tui",
+    "desc": "Spotify for the terminal written in Rust 🚀",
+    "star": "7.2k",
+    "keywords": "spotify-tui spotify-api rust cli spotify terminal terminal-based"
+  },
+  {
+    "url": "https://github.com/hyperium/hyper",
+    "repo": "hyper",
+    "desc": "An HTTP library for Rust",
+    "star": "7.2k",
+    "keywords": "hyper rust http"
+  },
+  {
+    "url": "https://github.com/wasmerio/wasmer",
+    "repo": "wasmer",
+    "desc": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
+    "star": "6.9k",
+    "keywords": "rust wasi emscripten windows macos linux webassembly wasm"
+  },
+  {
+    "url": "https://github.com/BurntSushi/xsv",
+    "repo": "xsv",
+    "desc": "A fast CSV command line toolkit written in Rust.",
+    "star": "6.7k",
+    "keywords": "rust cli csv command-line"
+  },
+  {
+    "url": "https://github.com/sharkdp/hyperfine",
+    "repo": "hyperfine",
+    "desc": "A command-line benchmarking tool",
+    "star": "6.6k",
+    "keywords": "benchmark rust cli terminal command-line tool"
+  },
+  {
+    "url": "https://github.com/amethyst/amethyst",
+    "repo": "amethyst",
+    "desc": "Data-oriented and data-driven game engine written in Rust",
+    "star": "6.4k",
+    "keywords": "rust engine gamedev game-engine"
+  },
+  {
+    "url": "https://github.com/dandavison/delta",
+    "repo": "delta",
+    "desc": "A viewer for git and diff output",
+    "star": "6.4k",
+    "keywords": "delta git rust diff pager syntax-highlighter color-themes git-delta"
+  },
+  {
+    "url": "https://github.com/uutils/coreutils",
+    "repo": "coreutils",
+    "desc": "Cross-platform Rust rewrite of the GNU coreutils",
+    "star": "6.3k",
+    "keywords": "rust busybox gnu-coreutils cross-platform command-line-tool coreutils"
+  },
+  {
+    "url": "https://github.com/benfred/py-spy",
+    "repo": "py-spy",
+    "desc": "Sampling profiler for Python programs",
+    "star": "6.3k",
+    "keywords": "python profiler performance-analysis profiling"
+  },
+  {
+    "url": "https://github.com/openethereum/parity-ethereum",
+    "repo": "parity-ethereum",
+    "desc": "The fast, light, and robust client for Ethereum-like networks.",
+    "star": "6.3k",
+    "keywords": "rust client node ethereum blockchain"
+  },
+  {
+    "url": "https://github.com/citybound/citybound",
+    "repo": "citybound",
+    "desc": "A work-in-progress, open-source, multi-player city simulation game.",
+    "star": "6.3k",
+    "keywords": "game simulation city rust actor-model"
+  },
+  {
+    "url": "https://github.com/RustPython/RustPython",
+    "repo": "RustPython",
+    "desc": "A Python Interpreter written in Rust",
+    "star": "6.2k",
+    "keywords": "rust python3 hacktoberfest python-language"
+  },
+  {
+    "url": "https://github.com/rust-lang/cargo",
+    "repo": "cargo",
+    "desc": "The Rust package manager",
+    "star": "6.2k",
+    "keywords": "rust package-manager"
+  },
+  {
+    "url": "https://github.com/diesel-rs/diesel",
+    "repo": "diesel",
+    "desc": "A safe, extensible ORM and Query Builder for Rust",
+    "star": "6.2k",
+    "keywords": "rust query-builder mysql orm sqlite blockchain postgresql"
+  },
+  {
+    "url": "https://github.com/rust-lang/book",
+    "repo": "book",
+    "desc": "The Rust Programming Language",
+    "star": "6.1k",
+    "keywords": "rust-programming-language mdbook rust book"
+  },
+  {
+    "url": "https://github.com/imsnif/bandwhich",
+    "repo": "bandwhich",
+    "desc": "Terminal bandwidth utilization tool",
+    "star": "6k",
+    "keywords": "cli networking dashboard bandwidth"
+  },
+  {
+    "url": "https://github.com/timberio/vector",
+    "repo": "vector",
+    "desc": "A high-performance, end-to-end observability data platform.",
+    "star": "5.8k",
+    "keywords": "vector rust parser events router pipeline metrics logs stream-processing forwarder observability"
+  },
+  {
+    "url": "https://github.com/iron/iron",
+    "repo": "iron",
+    "desc": "An Extensible, Concurrent Web Framework for Rust",
+    "star": "5.8k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/actix/actix",
+    "repo": "actix",
+    "desc": "Actor framework for Rust.",
+    "star": "5.8k",
+    "keywords": "rust actor-model concurrency actor hacktoberfest actix"
+  },
+  {
+    "url": "https://github.com/sharkdp/hexyl",
+    "repo": "hexyl",
+    "desc": "A command-line hex viewer",
+    "star": "5.7k",
+    "keywords": "rust command-line tool binary-data hexadecimal"
+  },
+  {
+    "url": "https://github.com/rust-lang/mdBook",
+    "repo": "mdBook",
+    "desc": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "star": "5.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/autumnai/leaf",
+    "repo": "leaf",
+    "desc": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+    "star": "5.5k",
+    "keywords": " 5.5k\n Rust\nUpdated on 15 Jan 2018"
+  },
+  {
+    "url": "https://github.com/bevyengine/bevy",
+    "repo": "bevy",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "star": "5.4k",
+    "keywords": "rust open-source gamedev game-engine hacktoberfest bevy"
+  },
+  {
+    "url": "https://github.com/dabreegster/abstreet",
+    "repo": "abstreet",
+    "desc": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.",
+    "star": "5.3k",
+    "keywords": "traffic-simulation game simulation openstreetmap seattle"
+  },
+  {
+    "url": "https://github.com/pingcap/talent-plan",
+    "repo": "talent-plan",
+    "desc": "open source training courses about distributed database and distributed systemes",
+    "star": "5.3k",
+    "keywords": "talent-plan distributed-database rust golang open-source distributed-systems pingcap"
+  },
+  {
+    "url": "https://github.com/rust-lang/rust-clippy",
+    "repo": "rust-clippy",
+    "desc": "A bunch of lints to catch common mistakes and improve your Rust code",
+    "star": "5.3k",
+    "keywords": "lint rust"
+  },
+  {
+    "url": "https://github.com/clap-rs/clap",
+    "repo": "clap",
+    "desc": "A full featured, fast Command Line Argument Parser for Rust",
+    "star": "5.1k",
+    "keywords": "rust subcommands argument-parser positional-arguments command-line argument-parsing command-line-parser parsed-arguments"
+  },
+  {
+    "url": "https://github.com/timvisee/ffsend",
+    "repo": "ffsend",
+    "desc": "📬 Easily and securely share files from the command line. A fully featured Firefox Send client.",
+    "star": "5.1k",
+    "keywords": "encryption rust cli file-upload file-sharing hacktoberfest firefox-send"
+  },
+  {
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "repo": "bottlerocket",
+    "desc": "An operating system designed for hosting containers",
+    "star": "5.1k",
+    "keywords": "linux containers operating-system"
+  },
+  {
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "repo": "ruffle",
+    "desc": "A Flash Player emulator written in Rust",
+    "star": "5.1k",
+    "keywords": "swf rust emulator flash reimplementation"
+  },
+  {
+    "url": "https://github.com/neon-bindings/neon",
+    "repo": "neon",
+    "desc": "Rust bindings for writing safe and fast native Node.js modules.",
+    "star": "5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/Peltoche/lsd",
+    "repo": "lsd",
+    "desc": "The next gen ls command",
+    "star": "4.9k",
+    "keywords": "rust color icons ls nerd-fonts"
+  },
+  {
+    "url": "https://github.com/rust-analyzer/rust-analyzer",
+    "repo": "rust-analyzer",
+    "desc": "An experimental Rust compiler front-end for IDEs",
+    "star": "4.9k",
+    "keywords": "rust lsp-server"
+  },
+  {
+    "url": "https://github.com/Canop/broot",
+    "repo": "broot",
+    "desc": "A new way to see and navigate directory trees : https://dystroy.org/broot",
+    "star": "4.7k",
+    "keywords": "linux rust tree command-line fuzzy-search command-line-tool hacktoberfest balanced-bfs-descent"
+  },
+  {
+    "url": "https://github.com/mimblewimble/grin",
+    "repo": "grin",
+    "desc": "Minimal implementation of the Mimblewimble protocol.",
+    "star": "4.7k",
+    "keywords": "grin rust cryptography cryptocurrency mimblewimble zero-knowledge-proofs"
+  },
+  {
+    "url": "https://github.com/getzola/zola",
+    "repo": "zola",
+    "desc": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+    "star": "4.6k",
+    "keywords": "markdown rust static-site-generator cms static documentation-tool blog-engine markdown-to-html site-generator tera content-management-system"
+  },
+  {
+    "url": "https://github.com/Geal/nom",
+    "repo": "nom",
+    "desc": "Rust parser combinator framework",
+    "star": "4.6k",
+    "keywords": "rust parser parse parser-combinators grammar nom byte-array"
+  },
+  {
+    "url": "https://github.com/rayon-rs/rayon",
+    "repo": "rayon",
+    "desc": "Rayon: A data parallelism library for Rust",
+    "star": "4.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/Spotifyd/spotifyd",
+    "repo": "spotifyd",
+    "desc": "A spotify daemon",
+    "star": "4.4k",
+    "keywords": "spotifyd daemon linux spotify"
+  },
+  {
+    "url": "https://github.com/gfx-rs/gfx",
+    "repo": "gfx",
+    "desc": "A low-overhead Vulkan-like GPU API for Rust.",
+    "star": "4.4k",
+    "keywords": "gfx vulkan rust opengl metal gpu graphics dx11 graphics-apis dx12"
+  },
+  {
+    "url": "https://github.com/LemmyNet/lemmy",
+    "repo": "lemmy",
+    "desc": "🐀 Building a federated alternative to reddit in rust",
+    "star": "4.4k",
+    "keywords": "reddit rust chat activitypub fediverse link-aggregator"
+  },
+  {
+    "url": "https://github.com/maps4print/azul",
+    "repo": "azul",
+    "desc": "Desktop GUI Framework",
+    "star": "4.3k",
+    "keywords": "rust gui"
+  },
+  {
+    "url": "https://github.com/svenstaro/genact",
+    "repo": "genact",
+    "desc": "🌀 A nonsense activity generator",
+    "star": "4.3k",
+    "keywords": "cli webassembly wasm fake useless nonsense"
+  },
+  {
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "repo": "wasmtime",
+    "desc": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+    "star": "4.3k",
+    "keywords": "wasm sandbox jit wasi cranelift wasmtime"
+  },
+  {
+    "url": "https://github.com/tantivy-search/tantivy",
+    "repo": "tantivy",
+    "desc": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "star": "4.2k",
+    "keywords": "search-engine rust"
+  },
+  {
+    "url": "https://github.com/XAMPPRocky/tokei",
+    "repo": "tokei",
+    "desc": "Count your code, quickly.",
+    "star": "4.2k",
+    "keywords": "tokei statistics windows macos linux rust cli code badge cloc"
+  },
+  {
+    "url": "https://github.com/orf/gping",
+    "repo": "gping",
+    "desc": "Ping, but with a graph",
+    "star": "4.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/spacejam/sled",
+    "repo": "sled",
+    "desc": "the champagne of beta embedded databases",
+    "star": "4.2k",
+    "keywords": "sled rust tree orm database high-performance persistence fuzzing formal-methods concurrent lock-free log-structured kv b-tree b-plus-tree b-link-tree bw-tree incredibly-spicy embedded-kv crash-testing"
+  },
+  {
+    "url": "https://github.com/cloudflare/quiche",
+    "repo": "quiche",
+    "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "star": "4.1k",
+    "keywords": "rust protocol quic network-programming hacktoberfest http3"
+  },
+  {
+    "url": "https://github.com/huggingface/tokenizers",
+    "repo": "tokenizers",
+    "desc": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "star": "4.1k",
+    "keywords": "nlp natural-language-processing transformers gpt language-model bert natural-language-understanding"
+  },
+  {
+    "url": "https://github.com/Y2Z/monolith",
+    "repo": "monolith",
+    "desc": "⬛️ CLI tool for saving complete web pages as a single HTML file",
+    "star": "4k",
+    "keywords": "save-the-internet procrastination its-mine no-more-404 come-and-take from-my-cold-dead-drive tab-rehab e-hoarding make-the-internet-great-again"
+  },
+  {
+    "url": "https://github.com/tokio-rs/mio",
+    "repo": "mio",
+    "desc": "Metal IO library for Rust",
+    "star": "4k",
+    "keywords": "rust networking asynchronous non-blocking"
+  },
+  {
+    "url": "https://github.com/fdehau/tui-rs",
+    "repo": "tui-rs",
+    "desc": "Build terminal user interfaces and dashboards using Rust",
+    "star": "3.9k",
+    "keywords": "tui rust terminal dashboard"
+  },
+  {
+    "url": "https://github.com/rust-lang/rustup",
+    "repo": "rustup",
+    "desc": "The Rust toolchain installer",
+    "star": "3.8k",
+    "keywords": "rustlang hacktoberfest"
+  },
+  {
+    "url": "https://github.com/rustwasm/wasm-bindgen",
+    "repo": "wasm-bindgen",
+    "desc": "Facilitating high-level interactions between Wasm modules and JavaScript",
+    "star": "3.8k",
+    "keywords": "rust javascript wasm binding-generator rust-wasm"
+  },
+  {
+    "url": "https://github.com/serde-rs/serde",
+    "repo": "serde",
+    "desc": "Serialization framework for Rust",
+    "star": "3.7k",
+    "keywords": "serde rust derive no-std"
+  },
+  {
+    "url": "https://github.com/seanmonstar/warp",
+    "repo": "warp",
+    "desc": "A super-easy, composable, web server framework for warp speeds.",
+    "star": "3.6k",
+    "keywords": "rust http framework server"
+  },
+  {
+    "url": "https://github.com/anordal/shellharden",
+    "repo": "shellharden",
+    "desc": "The corrective bash syntax highlighter",
+    "star": "3.6k",
+    "keywords": "syntax-highlighter lint policy"
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/piston",
+    "repo": "piston",
+    "desc": "A modular game engine written in Rust",
+    "star": "3.6k",
+    "keywords": "piston rust modular-game-engine"
+  },
+  {
+    "url": "https://github.com/rust-lang/futures-rs",
+    "repo": "futures-rs",
+    "desc": "Zero-cost asynchronous programming in Rust",
+    "star": "3.6k",
+    "keywords": "async-foundations"
+  },
+  {
+    "url": "https://github.com/bytecodealliance/lucet",
+    "repo": "lucet",
+    "desc": "Lucet, the Sandboxing WebAssembly Compiler.",
+    "star": "3.5k",
+    "keywords": "rust webassembly wasm assemblyscript wasi"
+  },
+  {
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "repo": "tree-sitter",
+    "desc": "An incremental parsing system for programming tools",
+    "star": "3.5k",
+    "keywords": "tree-sitter c rust parsing incremental"
+  },
+  {
+    "url": "https://github.com/paritytech/substrate",
+    "repo": "substrate",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "star": "3.4k",
+    "keywords": "substrate client node blockchain parity polkadot"
+  },
+  {
+    "url": "https://github.com/imazen/imageflow",
+    "repo": "imageflow",
+    "desc": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow",
+    "star": "3.4k",
+    "keywords": "imagemagick tool lib image-manipulation image-compression image-server"
+  },
+  {
+    "url": "https://github.com/seanmonstar/reqwest",
+    "repo": "reqwest",
+    "desc": "An easy and powerful Rust HTTP Client",
+    "star": "3.4k",
+    "keywords": "rust http http-client"
+  },
+  {
+    "url": "https://github.com/rust-lang/rustfmt",
+    "repo": "rustfmt",
+    "desc": "Format Rust code",
+    "star": "3.4k",
+    "keywords": "rust formatter rustfmt codeformatter"
+  },
+  {
+    "url": "https://github.com/graphql-rust/juniper",
+    "repo": "juniper",
+    "desc": "GraphQL server library for Rust",
+    "star": "3.3k",
+    "keywords": "graphql rust web cargo rust-library"
+  },
+  {
+    "url": "https://github.com/crossbeam-rs/crossbeam",
+    "repo": "crossbeam",
+    "desc": "Tools for concurrent programming in Rust",
+    "star": "3.3k",
+    "keywords": "rust threads synchronization concurrency parallelism data-structures lock-free"
+  },
+  {
+    "url": "https://github.com/racer-rust/racer",
+    "repo": "racer",
+    "desc": "Rust Code Completion utility",
+    "star": "3.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/PyO3/pyo3",
+    "repo": "pyo3",
+    "desc": "Rust bindings for the Python interpreter",
+    "star": "3.2k",
+    "keywords": "rust python binding ffi python-c-api"
+  },
+  {
+    "url": "https://github.com/phiresky/ripgrep-all",
+    "repo": "ripgrep-all",
+    "desc": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+    "star": "3.2k",
+    "keywords": " 3.2k\n Rust\nUpdated yesterday"
+  },
+  {
+    "url": "https://github.com/rust-lang/rls",
+    "repo": "rls",
+    "desc": "Repository for the Rust Language Server (aka RLS)",
+    "star": "3.1k",
+    "keywords": "rust ide language-server-protocol"
+  },
+  {
+    "url": "https://github.com/autozimu/LanguageClient-neovim",
+    "repo": "LanguageClient-neovim",
+    "desc": "Language Server Protocol (LSP) support for vim and neovim.",
+    "star": "3.1k",
+    "keywords": "vim-plugin language-server-protocol neovim-plugin deoplete-source denite-source languageclient"
+  },
+  {
+    "url": "https://github.com/zombodb/zombodb",
+    "repo": "zombodb",
+    "desc": "Making Postgres and Elasticsearch work together like it's 2020",
+    "star": "3.1k",
+    "keywords": "elasticsearch postgres sql postgresql text-search"
+  },
+  {
+    "url": "https://github.com/sharkdp/pastel",
+    "repo": "pastel",
+    "desc": "A command-line tool to generate, analyze, convert and manipulate colors",
+    "star": "3.1k",
+    "keywords": "rust cli terminal command-line tool colors color-converter color-space"
+  },
+  {
+    "url": "https://github.com/mit-pdos/noria",
+    "repo": "noria",
+    "desc": "Fast web applications through dynamic, partially-stateful dataflow",
+    "star": "3.1k",
+    "keywords": " 3.1k\n Rust\nUpdated yesterday\n7 issues need help"
+  },
+  {
+    "url": "https://github.com/launchbadge/sqlx",
+    "repo": "sqlx",
+    "desc": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports…",
+    "star": "3.1k",
+    "keywords": "rust mssql postgres async mysql sql sqlite postgresql mariadb await"
+  },
+  {
+    "url": "https://github.com/Schniz/fnm",
+    "repo": "fnm",
+    "desc": "🚀 Fast and simple Node.js version manager, built in Rust",
+    "star": "3.1k",
+    "keywords": "nodejs javascript nvm version reasonml hacktoberfest"
+  },
+  {
+    "url": "https://github.com/koute/stdweb",
+    "repo": "stdweb",
+    "desc": "A standard library for the client-side Web",
+    "star": "3.1k",
+    "keywords": "rust javascript gui web webassembly emscripten asmjs webasm"
+  },
+  {
+    "url": "https://github.com/rustwasm/wasm-pack",
+    "repo": "wasm-pack",
+    "desc": "📦✨ your favorite rust -> wasm workflow tool!",
+    "star": "3k",
+    "keywords": "rust-wasm registry rust cli npm package wasm"
+  },
+  {
+    "url": "https://github.com/RustScan/RustScan",
+    "repo": "RustScan",
+    "desc": "🤖 The Modern Port Scanner 🤖",
+    "star": "3k",
+    "keywords": "nmap docker rust security networking hacking port pentesting scanning hacktoberfest security-tools"
+  },
+  {
+    "url": "https://github.com/toshi-search/Toshi",
+    "repo": "Toshi",
+    "desc": "A full-text search engine in rust",
+    "star": "3k",
+    "keywords": "rust elasticsearch search search-engine indexing rust-lang"
+  },
+  {
+    "url": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "repo": "rust-raspberrypi-OS-tutorials",
+    "desc": "📚 Learn to write an embedded OS in Rust 🦀",
+    "star": "3k",
+    "keywords": "raspberry-pi kernel armv8 rust tutorial os operating-system raspberry rpi3 arm64 aarch64 bare-metal raspberry-pi-3 embedded-rust rpi4 raspberry-pi-4"
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/conrod",
+    "repo": "conrod",
+    "desc": "An easy-to-use, 2D GUI library written entirely in Rust.",
+    "star": "2.9k",
+    "keywords": "rust gui"
+  },
+  {
+    "url": "https://github.com/cloudflare/boringtun",
+    "repo": "boringtun",
+    "desc": "Userspace WireGuard® Implementation in Rust",
+    "star": "2.9k",
+    "keywords": "wireguard rust cloudflare"
+  },
+  {
+    "url": "https://github.com/redox-os/tfs",
+    "repo": "tfs",
+    "desc": "Mirror of https://gitlab.redox-os.org/redox-os/tfs",
+    "star": "2.8k",
+    "keywords": "rust tfs filesystem fs redox seahash zmicro chashmap mlcr"
+  },
+  {
+    "url": "https://github.com/linebender/druid",
+    "repo": "druid",
+    "desc": "A data-first Rust-native UI design toolkit.",
+    "star": "2.8k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/hyperium/tonic",
+    "repo": "tonic",
+    "desc": "A native gRPC client & server implementation with async/await support.",
+    "star": "2.8k",
+    "keywords": "grpc rust async rpc proto"
+  },
+  {
+    "url": "https://github.com/tensorflow/rust",
+    "repo": "rust",
+    "desc": "Rust language bindings for TensorFlow",
+    "star": "2.8k",
+    "keywords": "rust machine-learning tensorflow"
+  },
+  {
+    "url": "https://github.com/nickel-org/nickel.rs",
+    "repo": "nickel.rs",
+    "desc": "An expressjs inspired web framework for Rust",
+    "star": "2.8k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/chyyuu/os_kernel_lab",
+    "repo": "os_kernel_lab",
+    "desc": "OS kernel labs based on Rust Lang & RISC-V 64",
+    "star": "2.8k",
+    "keywords": "rust kernel os lab risc-v"
+  },
+  {
+    "url": "https://github.com/redox-os/orbtk",
+    "repo": "orbtk",
+    "desc": "The Rust UI-Toolkit.",
+    "star": "2.8k",
+    "keywords": "cross-platform entity-component rust gui widgets rust-lang redox-os"
+  },
+  {
+    "url": "https://github.com/indygreg/PyOxidizer",
+    "repo": "PyOxidizer",
+    "desc": "A modern Python application packaging and distribution tool",
+    "star": "2.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/extrawurst/gitui",
+    "repo": "gitui",
+    "desc": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "star": "2.7k",
+    "keywords": "rust async git terminal tui command-line-tool hacktoberfest command-line-interface"
+  },
+  {
+    "url": "https://github.com/http-rs/tide",
+    "repo": "tide",
+    "desc": "Fast and friendly HTTP server framework for async Rust",
+    "star": "2.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/async-rs/async-std",
+    "repo": "async-std",
+    "desc": "Async version of the Rust standard library",
+    "star": "2.6k",
+    "keywords": "async-std rust async async-await async-rust"
+  },
+  {
+    "url": "https://github.com/ggez/ggez",
+    "repo": "ggez",
+    "desc": "Rust library to create a Good Game Easily",
+    "star": "2.6k",
+    "keywords": "game rust crates game-engine engine game-development gameengine game-frameworks"
+  },
+  {
+    "url": "https://github.com/o2sh/onefetch",
+    "repo": "onefetch",
+    "desc": "Git repository summary on your terminal",
+    "star": "2.6k",
+    "keywords": "git rust cli command-line tool command-line-interface"
+  },
+  {
+    "url": "https://github.com/rusterlium/rustler",
+    "repo": "rustler",
+    "desc": "Safe Rust bridge for creating Erlang NIF functions",
+    "star": "2.5k",
+    "keywords": "nif erlang elixir rust binding ffi"
+  },
+  {
+    "url": "https://github.com/tock/tock",
+    "repo": "tock",
+    "desc": "A secure embedded operating system for microcontrollers",
+    "star": "2.5k",
+    "keywords": "tock rust embedded kernel iot arm microcontroller cortex-m operating-system mcu secure-operating-system"
+  },
+  {
+    "url": "https://github.com/volta-cli/volta",
+    "repo": "volta",
+    "desc": "Volta: Start your engines. ⚡",
+    "star": "2.5k",
+    "keywords": "nodejs package-manager node"
+  },
+  {
+    "url": "https://github.com/weld-project/weld",
+    "repo": "weld",
+    "desc": "High-performance runtime for data analytics applications",
+    "star": "2.5k",
+    "keywords": "llvm rust pandas data machine-learning performance analytics stanford code-generation"
+  },
+  {
+    "url": "https://github.com/EbTech/rust-algorithms",
+    "repo": "rust-algorithms",
+    "desc": "Common data structures and algorithms in Rust",
+    "star": "2.5k",
+    "keywords": "rust programming-contests education algorithm algorithms cookbook data-structures codeforces learn competition-programmers"
+  },
+  {
+    "url": "https://github.com/gleam-lang/gleam",
+    "repo": "gleam",
+    "desc": "⭐️ A statically typed language for the Erlang VM",
+    "star": "2.4k",
+    "keywords": "gleam erlang programming-language compiler hacktoberfest statically-typed"
+  },
+  {
+    "url": "https://github.com/nannou-org/nannou",
+    "repo": "nannou",
+    "desc": "A Creative Coding Framework for Rust.",
+    "star": "2.4k",
+    "keywords": "creative-coding"
+  },
+  {
+    "url": "https://github.com/vulkano-rs/vulkano",
+    "repo": "vulkano",
+    "desc": "Safe and rich Rust wrapper around the Vulkan API",
+    "star": "2.4k",
+    "keywords": "vulkan-api rust vulkan graphics-programming spir-v"
+  },
+  {
+    "url": "https://github.com/servo/pathfinder",
+    "repo": "pathfinder",
+    "desc": "A fast, practical GPU rasterizer for fonts and vector graphics",
+    "star": "2.4k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/EmbarkStudios/rust-gpu",
+    "repo": "rust-gpu",
+    "desc": "🐉 Making Rust a first-class language and ecosystem for GPU code 🚧",
+    "star": "2.4k",
+    "keywords": "shaders rust gpu-programming"
+  },
+  {
+    "url": "https://github.com/jmacdonald/amp",
+    "repo": "amp",
+    "desc": "A complete text editor for your terminal.",
+    "star": "2.3k",
+    "keywords": "rust vim terminal text-editor"
+  },
+  {
+    "url": "https://github.com/vi/websocat",
+    "repo": "websocat",
+    "desc": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+    "star": "2.3k",
+    "keywords": "netcat socat curl cli command-line proxy websocket-server websockets websocket-client command-line-tool rfc-6455"
+  },
+  {
+    "url": "https://github.com/microsoft/winrt-rs",
+    "repo": "winrt-rs",
+    "desc": "Rust language projection for the Windows Runtime",
+    "star": "2.3k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/lumen/lumen",
+    "repo": "lumen",
+    "desc": "An alternative BEAM implementation, designed for WebAssembly",
+    "star": "2.3k",
+    "keywords": "lumen beam erlang compiler virtual-machine web-assembly erlang-vm hacktoberfest"
+  },
+  {
+    "url": "https://github.com/Qovery/engine",
+    "repo": "engine",
+    "desc": "Deploy your apps on any Cloud providers in just a few seconds",
+    "star": "2.3k",
+    "keywords": "rust helm kubernetes gcp azure aws digitalocean cloud terraform"
+  },
+  {
+    "url": "https://github.com/MaxBittker/sandspiel",
+    "repo": "sandspiel",
+    "desc": "Creative cellular automata browser game",
+    "star": "2.3k",
+    "keywords": "game rust webgl webassembly wasm"
+  },
+  {
+    "url": "https://github.com/habitat-sh/habitat",
+    "repo": "habitat",
+    "desc": "Modern applications with built-in automation",
+    "star": "2.3k",
+    "keywords": "rust package-manager distributed-systems automation containers configuration-management package-management choreographer"
+  },
+  {
+    "url": "https://github.com/ivanceras/svgbob",
+    "repo": "svgbob",
+    "desc": "Convert your ascii diagram scribbles into happy little SVG",
+    "star": "2.3k",
+    "keywords": "svg diagram bob"
+  },
+  {
+    "url": "https://github.com/microsoft/onefuzz",
+    "repo": "onefuzz",
+    "desc": "A self-hosted Fuzzing-As-A-Service platform",
+    "star": "2.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/lotabout/skim",
+    "repo": "skim",
+    "desc": "Fuzzy Finder in rust!",
+    "star": "2.2k",
+    "keywords": "skim rust fuzzyfinder"
+  },
+  {
+    "url": "https://github.com/curlpipe/ox",
+    "repo": "ox",
+    "desc": "An independent Rust text editor that runs in your terminal!",
+    "star": "2.2k",
+    "keywords": "rust editor terminal tui terminal-based ox termion editors"
+  },
+  {
+    "url": "https://github.com/NerdyPepper/dijo",
+    "repo": "dijo",
+    "desc": "scriptable, curses-based, digital habit tracker",
+    "star": "2.2k",
+    "keywords": "tracker rust tui"
+  },
+  {
+    "url": "https://github.com/glium/glium",
+    "repo": "glium",
+    "desc": "Safe OpenGL wrapper for the Rust language.",
+    "star": "2.2k",
+    "keywords": "opengl rust"
+  },
+  {
+    "url": "https://github.com/dtolnay/cxx",
+    "repo": "cxx",
+    "desc": "Safe interop between Rust and C++",
+    "star": "2.2k",
+    "keywords": " 2.2k\n Rust\nUpdated yesterday\n24 issues need help"
+  },
+  {
+    "url": "https://github.com/ctz/rustls",
+    "repo": "rustls",
+    "desc": "A modern TLS library in Rust",
+    "star": "2.2k",
+    "keywords": "cryptography rust tls ssl"
+  },
+  {
+    "url": "https://github.com/servo/webrender",
+    "repo": "webrender",
+    "desc": "A GPU-based renderer for the web",
+    "star": "2.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/blockstack/stacks-blockchain",
+    "repo": "stacks-blockchain",
+    "desc": "The Stacks 2.0 blockchain implementation",
+    "star": "2.2k",
+    "keywords": "bitcoin dns rust identity serverless storage apps decentralized blockchain blockstack"
+  },
+  {
+    "url": "https://github.com/casey/just",
+    "repo": "just",
+    "desc": "🤖 Just a command runner",
+    "star": "2.2k",
+    "keywords": "hacktoberfest"
+  },
+  {
+    "url": "https://github.com/harababurel/gcsf",
+    "repo": "gcsf",
+    "desc": "a FUSE file system based on Google Drive",
+    "star": "2.2k",
+    "keywords": "google-drive rust google fuse filesystem drive google-drive-wrapper google-drive-api"
+  },
+  {
+    "url": "https://github.com/nebulet/nebulet",
+    "repo": "nebulet",
+    "desc": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.",
+    "star": "2.2k",
+    "keywords": "microkernel rust webassembly osdev operating-system nebulet"
+  },
+  {
+    "url": "https://github.com/gluon-lang/gluon",
+    "repo": "gluon",
+    "desc": "A static, type inferred and embeddable language written in Rust.",
+    "star": "2.2k",
+    "keywords": "gluon rust repl embeddable programming-language functional type-inference"
+  },
+  {
+    "url": "https://github.com/shadowsocks/shadowsocks-rust",
+    "repo": "shadowsocks-rust",
+    "desc": "A Rust port of shadowsocks",
+    "star": "2.2k",
+    "keywords": "shadowsocks rust"
+  },
+  {
+    "url": "https://github.com/mre/idiomatic-rust",
+    "repo": "idiomatic-rust",
+    "desc": "A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.",
+    "star": "2.1k",
+    "keywords": "rustlang hacktoberfest idiomatic"
+  },
+  {
+    "url": "https://github.com/pest-parser/pest",
+    "repo": "pest",
+    "desc": "The Elegant Parser",
+    "star": "2.1k",
+    "keywords": "rust peg parsing"
+  },
+  {
+    "url": "https://github.com/rbspy/rbspy",
+    "repo": "rbspy",
+    "desc": "Sampling profiler for Ruby",
+    "star": "2.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/Kintaro/wtftw",
+    "repo": "wtftw",
+    "desc": "Window Tiling For The Win. A tiling window manager written in Rust",
+    "star": "2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "repo": "rust-blog",
+    "desc": "Educational blog posts for Rust beginners",
+    "star": "2k",
+    "keywords": "rust blog blogging rust-lang"
+  },
+  {
+    "url": "https://github.com/rusoto/rusoto",
+    "repo": "rusoto",
+    "desc": "AWS SDK for Rust",
+    "star": "2k",
+    "keywords": "aws-sdk rust aws"
+  },
+  {
+    "url": "https://github.com/cjbassi/ytop",
+    "repo": "ytop",
+    "desc": "A TUI system monitor written in Rust",
+    "star": "2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/watchexec/watchexec",
+    "repo": "watchexec",
+    "desc": "Executes commands in response to file modifications",
+    "star": "2k",
+    "keywords": "linux windows macos rust file-watchers developer-tools"
+  },
+  {
+    "url": "https://github.com/ogham/dog",
+    "repo": "dog",
+    "desc": "Command-line DNS client",
+    "star": "2k",
+    "keywords": "dns client command-line"
+  },
+  {
+    "url": "https://github.com/MaterializeInc/materialize",
+    "repo": "materialize",
+    "desc": "Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in Pos…",
+    "star": "2k",
+    "keywords": "postgresql-dialect rust distributed-systems streaming sql database kafka"
+  },
+  {
+    "url": "https://github.com/gyscos/cursive",
+    "repo": "cursive",
+    "desc": "A Text User Interface library for the Rust programming language",
+    "star": "2k",
+    "keywords": "tui ncurses rust terminal"
+  },
+  {
+    "url": "https://github.com/withoutboats/notty",
+    "repo": "notty",
+    "desc": "A new kind of terminal",
+    "star": "2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/sekey/sekey",
+    "repo": "sekey",
+    "desc": "Use Touch ID / Secure Enclave for SSH Authentication!",
+    "star": "2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/federico-terzi/espanso",
+    "repo": "espanso",
+    "desc": "Cross-platform Text Expander written in Rust",
+    "star": "2k",
+    "keywords": "espanso text-expander linux macos rust windows productivity productivity-tools"
+  },
+  {
+    "url": "https://github.com/tildeio/helix",
+    "repo": "helix",
+    "desc": "Native Ruby extensions without fear",
+    "star": "2k",
+    "keywords": "helix rust ruby"
+  },
+  {
+    "url": "https://github.com/ImageOptim/gifski",
+    "repo": "gifski",
+    "desc": "GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.",
+    "star": "2k",
+    "keywords": "pngquant gif gif-creator gif-animation gifencoder"
+  },
+  {
+    "url": "https://github.com/cantino/mcfly",
+    "repo": "mcfly",
+    "desc": "Fly through your shell history. Great Scott!",
+    "star": "1.9k",
+    "keywords": "history search shell rust"
+  },
+  {
+    "url": "https://github.com/sfackler/rust-postgres",
+    "repo": "rust-postgres",
+    "desc": "Native PostgreSQL driver for the Rust programming language",
+    "star": "1.9k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/cristicbz/rust-doom",
+    "repo": "rust-doom",
+    "desc": "A Doom Renderer written in Rust.",
+    "star": "1.9k",
+    "keywords": "wad game rust opengl rendering retro doom glutin glium"
+  },
+  {
+    "url": "https://github.com/smol-rs/smol",
+    "repo": "smol",
+    "desc": "A small and fast async runtime for Rust",
+    "star": "1.9k",
+    "keywords": "async rust networking runtime concurrency futures"
+  },
+  {
+    "url": "https://github.com/bootandy/dust",
+    "repo": "dust",
+    "desc": "A more intuitive version of du in rust",
+    "star": "1.9k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/koute/memory-profiler",
+    "repo": "memory-profiler",
+    "desc": "NOT_FOUND",
+    "star": "NOT_FOUND",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/nrc/r4cppp",
+    "repo": "r4cppp",
+    "desc": "Rust for C++ programmers",
+    "star": "1.9k",
+    "keywords": " 1.9k\n Rust\nUpdated on 2 Oct"
+  },
+  {
+    "url": "https://github.com/dimforge/nalgebra",
+    "repo": "nalgebra",
+    "desc": "Linear algebra library for Rust.",
+    "star": "1.9k",
+    "keywords": "algebra vector matrix linear-algebra"
+  },
+  {
+    "url": "https://github.com/image-rs/image",
+    "repo": "image",
+    "desc": "Encoding and decoding images in Rust",
+    "star": "1.9k",
+    "keywords": "pixel decoding-images rust hacktoberfest"
+  },
+  {
+    "url": "https://github.com/serde-rs/json",
+    "repo": "json",
+    "desc": "Strongly typed JSON library for Rust",
+    "star": "1.9k",
+    "keywords": "rust json serde"
+  },
+  {
+    "url": "https://github.com/google/OpenSK",
+    "repo": "OpenSK",
+    "desc": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 stand…",
+    "star": "1.9k",
+    "keywords": "rust hardware security embedded firmware u2f tock webauthn fido2 security-key"
+  },
+  {
+    "url": "https://github.com/librespot-org/librespot",
+    "repo": "librespot",
+    "desc": "Open Source Spotify client library",
+    "star": "1.9k",
+    "keywords": "librespot spotify rust spotify-connect"
+  },
+  {
+    "url": "https://github.com/rust-lang/crates.io",
+    "repo": "crates.io",
+    "desc": "Source code for crates.io",
+    "star": "1.8k",
+    "keywords": " 1.8k\n Rust\nUpdated yesterday"
+  },
+  {
+    "url": "https://github.com/cloudflare/wrangler",
+    "repo": "wrangler",
+    "desc": "🤠 wrangle your cloudflare workers",
+    "star": "1.8k",
+    "keywords": "rust cli serverless cloudflare-workers"
+  },
+  {
+    "url": "https://github.com/TeXitoi/structopt",
+    "repo": "structopt",
+    "desc": "Parse command line arguments by defining a struct.",
+    "star": "1.8k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/ajeetdsouza/zoxide",
+    "repo": "zoxide",
+    "desc": "A faster way to navigate your filesystem",
+    "star": "1.8k",
+    "keywords": "zoxide shell bash rust zsh fish terminal command-line powershell autojump z xonsh xontrib pwsh"
+  },
+  {
+    "url": "https://github.com/chmln/sd",
+    "repo": "sd",
+    "desc": "Intuitive find & replace CLI (sed alternative)",
+    "star": "1.8k",
+    "keywords": "regex rust terminal command-line text-processing"
+  },
+  {
+    "url": "https://github.com/jhspetersson/fselect",
+    "repo": "fselect",
+    "desc": "Find files with SQL-like queries",
+    "star": "1.8k",
+    "keywords": "sql rust cli files utility query tool filesystem find hacktoberfest sql-like"
+  },
+  {
+    "url": "https://github.com/google/evcxr",
+    "repo": "evcxr",
+    "desc": "NOT_FOUND",
+    "star": "NOT_FOUND",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/Kethku/neovide",
+    "repo": "neovide",
+    "desc": "No Nonsense Neovim Client in Rust",
+    "star": "1.8k",
+    "keywords": "vulkan neovim rust skia"
+  },
+  {
+    "url": "https://github.com/paritytech/polkadot",
+    "repo": "polkadot",
+    "desc": "Polkadot Node Implementation",
+    "star": "1.8k",
+    "keywords": "polkadot rust client node blockchain parity"
+  },
+  {
+    "url": "https://github.com/boa-dev/boa",
+    "repo": "boa",
+    "desc": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the la…",
+    "star": "1.8k",
+    "keywords": "rust interpreter ecmascript javascript-interpreter javascript-engine hacktoberfest"
+  },
+  {
+    "url": "https://github.com/antoyo/relm",
+    "repo": "relm",
+    "desc": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust",
+    "star": "1.8k",
+    "keywords": "hacktoberfest"
+  },
+  {
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "repo": "Rust",
+    "desc": "All Algorithms implemented in Rust",
+    "star": "1.8k",
+    "keywords": "rust algorithms data-structures rust-lang hacktoberfest"
+  },
+  {
+    "url": "https://github.com/amethyst/specs",
+    "repo": "specs",
+    "desc": "Specs - Parallel ECS",
+    "star": "1.8k",
+    "keywords": "ecs rust parallel-ecs"
+  },
+  {
+    "url": "https://github.com/smoltcp-rs/smoltcp",
+    "repo": "smoltcp",
+    "desc": "a smol tcp/ip stack",
+    "star": "1.7k",
+    "keywords": "embedded networking-stack"
+  },
+  {
+    "url": "https://github.com/mozilla/sccache",
+    "repo": "sccache",
+    "desc": "sccache is ccache with cloud storage",
+    "star": "1.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/gotham-rs/gotham",
+    "repo": "gotham",
+    "desc": "A flexible web framework that promotes stability, safety, security and speed.",
+    "star": "1.7k",
+    "keywords": "gotham rust async webframework webdevelopment learning-gotham"
+  },
+  {
+    "url": "https://github.com/TimelyDataflow/timely-dataflow",
+    "repo": "timely-dataflow",
+    "desc": "A modular implementation of timely dataflow in Rust",
+    "star": "1.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/bodil/typed-html",
+    "repo": "typed-html",
+    "desc": "Type checked JSX for Rust",
+    "star": "1.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/Byron/gitoxide",
+    "repo": "gitoxide",
+    "desc": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
+    "star": "1.7k",
+    "keywords": "cli git version-control blazingly-fast built-with-rust"
+  },
+  {
+    "url": "https://github.com/mitsuhiko/redis-rs",
+    "repo": "redis-rs",
+    "desc": "Redis library for rust",
+    "star": "1.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/tailhook/vagga",
+    "repo": "vagga",
+    "desc": "Vagga is a containerization tool without daemons",
+    "star": "1.7k",
+    "keywords": "linux rust containers"
+  },
+  {
+    "url": "https://github.com/rajasekarv/vega",
+    "repo": "vega",
+    "desc": "A new arguably faster implementation of Apache Spark from scratch in Rust",
+    "star": "1.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rust-lang/regex",
+    "repo": "regex",
+    "desc": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear tim…",
+    "star": "1.7k",
+    "keywords": "regular-expressions rust regex automata regexp nfa automaton dfa regex-engine regex-syntax regex-parser"
+  },
+  {
+    "url": "https://github.com/artichoke/artichoke",
+    "repo": "artichoke",
+    "desc": "💎 Artichoke is a Ruby made with Rust",
+    "star": "1.7k",
+    "keywords": "artichoke rust ruby language programming-language rust-application"
+  },
+  {
+    "url": "https://github.com/liljencrantz/crush",
+    "repo": "crush",
+    "desc": "Crush is a command line shell that is also a powerful modern programming language.",
+    "star": "1.7k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/immunant/c2rust",
+    "repo": "c2rust",
+    "desc": "Migrate C code to Rust",
+    "star": "1.7k",
+    "keywords": "rust translation migration transpiler memory-safety security-hardening cross-checking"
+  },
+  {
+    "url": "https://github.com/dgiagio/warp",
+    "repo": "warp",
+    "desc": "Create self-contained single binary applications",
+    "star": "1.6k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/bastion-rs/bastion",
+    "repo": "bastion",
+    "desc": "Highly-available Distributed Fault-tolerant Runtime",
+    "star": "1.6k",
+    "keywords": "fault-tolerance supervision actor asynchronous rust distributed-systems concurrency rust-language distributed smp hacktoberfest numa-aware"
+  },
+  {
+    "url": "https://github.com/huytd/kanban-app",
+    "repo": "kanban-app",
+    "desc": "Kanban board built with Rust and Elm",
+    "star": "1.6k",
+    "keywords": "webview rust elm gui kanban"
+  },
+  {
+    "url": "https://github.com/dflemstr/rq",
+    "repo": "rq",
+    "desc": "Record Query - A tool for doing record analysis and transformation",
+    "star": "1.6k",
+    "keywords": "protobuf rust javascript yaml toml json avro lodash messagepack command-line-tool"
+  },
+  {
+    "url": "https://github.com/mitsuhiko/indicatif",
+    "repo": "indicatif",
+    "desc": "A command line progress reporting library for Rust",
+    "star": "1.6k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/cgag/loc",
+    "repo": "loc",
+    "desc": "Count lines of code quickly.",
+    "star": "1.6k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/flutter-rs/flutter-rs",
+    "repo": "flutter-rs",
+    "desc": "Build beautiful desktop apps with flutter and rust. 🌠 (wip)",
+    "star": "1.6k",
+    "keywords": "rust gui flutter"
+  },
+  {
+    "url": "https://github.com/Findomain/Findomain",
+    "repo": "Findomain",
+    "desc": "The fastest and cross-platform subdomain enumerator, do not waste your time.",
+    "star": "1.6k",
+    "keywords": "subdomains-monitoring subdomains-enumeration subdomain-scanner"
+  },
+  {
+    "url": "https://github.com/bluejekyll/trust-dns",
+    "repo": "trust-dns",
+    "desc": "A Rust based DNS client, server, and resolver",
+    "star": "1.6k",
+    "keywords": "trust-dns dns-client dnssec dynamic-dns dns rust rust-lang dns-server"
+  },
+  {
+    "url": "https://github.com/mozilla/mentat",
+    "repo": "mentat",
+    "desc": "UNMAINTAINED A persistent, relational store inspired by Datomic and DataScript.",
+    "star": "1.6k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/cloudhead/rx",
+    "repo": "rx",
+    "desc": "👾 Modern and minimalist pixel editor",
+    "star": "1.6k",
+    "keywords": "rust gamedev pixel-art pixel graphics retro 8bit pixel-art-editor"
+  },
+  {
+    "url": "https://github.com/google/tarpc",
+    "repo": "tarpc",
+    "desc": "An RPC framework for Rust with a focus on ease of use.",
+    "star": "1.6k",
+    "keywords": "rpc-framework rust tokio asynchronous-programming futures"
+  },
+  {
+    "url": "https://github.com/saschagrunert/webapp.rs",
+    "repo": "webapp.rs",
+    "desc": "A web application completely written in Rust. 🌍",
+    "star": "1.6k",
+    "keywords": "rust backend frontend webapp website postgresql http-server diesel diesel-rs actix-web"
+  },
+  {
+    "url": "https://github.com/seed-rs/seed",
+    "repo": "seed",
+    "desc": "A Rust framework for creating web apps",
+    "star": "1.6k",
+    "keywords": "rust webassembly wasm web-framework frontend-framework wasm-bindgen"
+  },
+  {
+    "url": "https://github.com/ijl/orjson",
+    "repo": "orjson",
+    "desc": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy",
+    "star": "1.5k",
+    "keywords": "dataclasses numpy python rust serialization json datetime deserialization pyo3"
+  },
+  {
+    "url": "https://github.com/oam-dev/rudr",
+    "repo": "rudr",
+    "desc": "A Kubernetes implementation of the Open Application Model specification",
+    "star": "1.5k",
+    "keywords": "kubernetes serverless cloud-native distributed-applications"
+  },
+  {
+    "url": "https://github.com/WebAssembly/WASI",
+    "repo": "WASI",
+    "desc": "WebAssembly System Interface",
+    "star": "1.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/actix/examples",
+    "repo": "examples",
+    "desc": "Community showcase and examples of Actix ecosystem usage.",
+    "star": "1.5k",
+    "keywords": "actix actix-web rust examples"
+  },
+  {
+    "url": "https://github.com/killercup/cargo-edit",
+    "repo": "cargo-edit",
+    "desc": "A utility for managing cargo dependencies from the command line.",
+    "star": "1.5k",
+    "keywords": "cargo rust cli"
+  },
+  {
+    "url": "https://github.com/chinedufn/percy",
+    "repo": "percy",
+    "desc": "Libraries for building interactive frontend browser apps with Rust + WebAssembly. Supports server side rendering.",
+    "star": "1.5k",
+    "keywords": "virtual-dom browser web frontend web-app webassembly wasm web-application wasm-bindgen"
+  },
+  {
+    "url": "https://github.com/rust-windowing/winit",
+    "repo": "winit",
+    "desc": "Window handling library in pure Rust",
+    "star": "1.5k",
+    "keywords": "rust windowing"
+  },
+  {
+    "url": "https://github.com/lalrpop/lalrpop",
+    "repo": "lalrpop",
+    "desc": "LR(1) parser generator for Rust",
+    "star": "1.5k",
+    "keywords": "rust parser-generator grammar"
+  },
+  {
+    "url": "https://github.com/bheisler/criterion.rs",
+    "repo": "criterion.rs",
+    "desc": "Statistics-driven benchmarking library for Rust",
+    "star": "1.5k",
+    "keywords": "criterion rust statistics gnuplot benchmark"
+  },
+  {
+    "url": "https://github.com/rust-ndarray/ndarray",
+    "repo": "ndarray",
+    "desc": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
+    "star": "1.5k",
+    "keywords": "rust scientific-computing numerics rust-sci"
+  },
+  {
+    "url": "https://github.com/hrkfdn/ncspot",
+    "repo": "ncspot",
+    "desc": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.",
+    "star": "1.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/ralfbiedert/cheats.rs",
+    "repo": "cheats.rs",
+    "desc": "Rust Language Cheat Sheet - https://cheats.rs",
+    "star": "1.5k",
+    "keywords": "rust language cheatsheet"
+  },
+  {
+    "url": "https://github.com/BurntSushi/quickcheck",
+    "repo": "quickcheck",
+    "desc": "Automated property based testing for Rust (with shrinking).",
+    "star": "1.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/johnthagen/min-sized-rust",
+    "repo": "min-sized-rust",
+    "desc": "🦀 How to minimize Rust binary size 📦",
+    "star": "1.5k",
+    "keywords": "rust"
+  },
+  {
+    "url": "https://github.com/gfx-rs/wgpu",
+    "repo": "wgpu",
+    "desc": "Native WebGPU implementation based on gfx-hal",
+    "star": "1.5k",
+    "keywords": "webgpu rust gfx-hal gpu native-libraries"
+  },
+  {
+    "url": "https://github.com/Rust-SDL2/rust-sdl2",
+    "repo": "rust-sdl2",
+    "desc": "SDL2 bindings for Rust",
+    "star": "1.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/twilco/kosmonaut",
+    "repo": "kosmonaut",
+    "desc": "A web browser engine for the space age 🚀",
+    "star": "1.5k",
+    "keywords": "browser web"
+  },
+  {
+    "url": "https://github.com/stepancheg/rust-protobuf",
+    "repo": "rust-protobuf",
+    "desc": "Rust implementation of Google protocol buffers",
+    "star": "1.5k",
+    "keywords": "rust serialization protobuf"
+  },
+  {
+    "url": "https://github.com/greshake/i3status-rust",
+    "repo": "i3status-rust",
+    "desc": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust",
+    "star": "1.5k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/zetzit/zz",
+    "repo": "zz",
+    "desc": "🍺🐙 ZetZ a zymbolic verifier and tranzpiler to bare metal C",
+    "star": "1.4k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/seppo0010/rsedis",
+    "repo": "rsedis",
+    "desc": "Redis re-implemented in Rust.",
+    "star": "1.4k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/libp2p/rust-libp2p",
+    "repo": "rust-libp2p",
+    "desc": "The Rust Implementation of libp2p networking stack.",
+    "star": "1.4k",
+    "keywords": "libp2p rust networking peer-to-peer decentralization"
+  },
+  {
+    "url": "https://github.com/rust-lang-nursery/failure",
+    "repo": "failure",
+    "desc": "Error management",
+    "star": "1.4k",
+    "keywords": "rust error-handling"
+  },
+  {
+    "url": "https://github.com/rust-lang/miri",
+    "repo": "miri",
+    "desc": "An interpreter for Rust's mid-level intermediate representation",
+    "star": "1.4k",
+    "keywords": " 1.4k\n Rust\nUpdated yesterday"
+  },
+  {
+    "url": "https://github.com/gchp/iota",
+    "repo": "iota",
+    "desc": "A terminal-based text editor written in Rust",
+    "star": "1.4k",
+    "keywords": "rust text-editor"
+  },
+  {
+    "url": "https://github.com/dimforge/nphysics",
+    "repo": "nphysics",
+    "desc": "2 and 3-dimensional rigid body physics engine for Rust.",
+    "star": "1.4k",
+    "keywords": "physics-engine joints physics rigid-bodies"
+  },
+  {
+    "url": "https://github.com/flamegraph-rs/flamegraph",
+    "repo": "flamegraph",
+    "desc": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3",
+    "star": "1.4k",
+    "keywords": "flamegraphs perf profiling"
+  },
+  {
+    "url": "https://github.com/dtolnay/anyhow",
+    "repo": "anyhow",
+    "desc": "Flexible concrete Error type built on std::error::Error",
+    "star": "1.4k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/denoland/rusty_v8",
+    "repo": "rusty_v8",
+    "desc": "V8 javascript bindings for Rust",
+    "star": "1.4k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/buildfoundation/mainframer",
+    "repo": "mainframer",
+    "desc": "Tool for remote builds. Sync project to remote machine, execute command, sync back.",
+    "star": "1.4k",
+    "keywords": "mainframer rust ssh rsync sync-files remote-build"
+  },
+  {
+    "url": "https://github.com/Plume-org/Plume",
+    "repo": "Plume",
+    "desc": "Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)",
+    "star": "1.4k",
+    "keywords": "activitypub federation blog rust blog-engine rocket diesel decentralization activitystreams"
+  },
+  {
+    "url": "https://github.com/r-darwish/topgrade",
+    "repo": "topgrade",
+    "desc": "Upgrade everything",
+    "star": "1.4k",
+    "keywords": "rust package-manager automation"
+  },
+  {
+    "url": "https://github.com/rustcc/RustPrimer",
+    "repo": "RustPrimer",
+    "desc": "The Rust primer for beginners. We need native English speaker help us modify the translation.",
+    "star": "1.4k",
+    "keywords": "rust rust-primer book"
+  },
+  {
+    "url": "https://github.com/redox-os/termion",
+    "repo": "termion",
+    "desc": "Mirror of https://gitlab.redox-os.org/redox-os/termion",
+    "star": "1.4k",
+    "keywords": "tty supports-redox rust terminal tui"
+  },
+  {
+    "url": "https://github.com/tikv/raft-rs",
+    "repo": "raft-rs",
+    "desc": "Raft distributed consensus algorithm implemented in Rust.",
+    "star": "1.4k",
+    "keywords": "distributed-consensus-algorithms rust distributed-systems raft"
+  },
+  {
+    "url": "https://github.com/mesalock-linux/mesalink",
+    "repo": "mesalink",
+    "desc": "OpenSSL compatibility layer for the Rust SSL/TLS stack",
+    "star": "1.4k",
+    "keywords": "tls rust"
+  },
+  {
+    "url": "https://github.com/quinn-rs/quinn",
+    "repo": "quinn",
+    "desc": "Futures-based QUIC implementation in Rust",
+    "star": "1.4k",
+    "keywords": "quic protocol rust hacktoberfest"
+  },
+  {
+    "url": "https://github.com/chronotope/chrono",
+    "repo": "chrono",
+    "desc": "Date and time library for Rust",
+    "star": "1.4k",
+    "keywords": "rust time date calendar"
+  },
+  {
+    "url": "https://github.com/Keats/tera",
+    "repo": "tera",
+    "desc": "A template engine for Rust based on Jinja2/Django",
+    "star": "1.4k",
+    "keywords": "jinja2 django template-engine rust-library"
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/hematite",
+    "repo": "hematite",
+    "desc": "A simple Minecraft written in Rust with the Piston game engine",
+    "star": "1.4k",
+    "keywords": "minecraft piston-game-engine rust"
+  },
+  {
+    "url": "https://github.com/tinysearch/tinysearch",
+    "repo": "tinysearch",
+    "desc": "🔍 Tiny, full-text search engine for static websites built with Rust and Wasm",
+    "star": "1.4k",
+    "keywords": "wasm rust search-engine bloom-filter static-site hacktoberfest elasticlunr lunrjs"
+  },
+  {
+    "url": "https://github.com/deislabs/krustlet",
+    "repo": "krustlet",
+    "desc": "Kubernetes Rust Kubelet",
+    "star": "1.4k",
+    "keywords": "krustlet kubelet kubernetes-kubelet kubernetes rust wasm wasi wascc"
+  },
+  {
+    "url": "https://github.com/rust-windowing/glutin",
+    "repo": "glutin",
+    "desc": "A low-level library for OpenGL context creation, written in pure Rust.",
+    "star": "1.4k",
+    "keywords": "rust opengl"
+  },
+  {
+    "url": "https://github.com/das-labor/panopticon",
+    "repo": "panopticon",
+    "desc": "A libre cross-platform disassembler.",
+    "star": "1.4k",
+    "keywords": "rust security qml static-analysis reverse-engineering disassembler"
+  },
+  {
+    "url": "https://github.com/mrDIMAS/rg3d",
+    "repo": "rg3d",
+    "desc": "3d game engine written in Rust",
+    "star": "1.4k",
+    "keywords": "rust gui engine rust-lang 3d"
+  },
+  {
+    "url": "https://github.com/brson/stdx",
+    "repo": "stdx",
+    "desc": "The missing batteries of Rust",
+    "star": "1.4k",
+    "keywords": " 1.4k\n Rust\nUpdated on 6 Sep\n2 issues need help"
+  },
+  {
+    "url": "https://github.com/bayard-search/bayard",
+    "repo": "bayard",
+    "desc": "A full-text search and indexing server written in Rust.",
+    "star": "1.4k",
+    "keywords": "bayard rust search-engine raft grpc"
+  },
+  {
+    "url": "https://github.com/pemistahl/grex",
+    "repo": "grex",
+    "desc": "A command-line tool and library for generating regular expressions from user-provided test cases",
+    "star": "1.4k",
+    "keywords": "regular-expressions regex rust cli terminal tool regexp regular-expression regex-pattern command-line-tool rust-library rust-crate rust-cli"
+  },
+  {
+    "url": "https://github.com/m4b/bingrep",
+    "repo": "bingrep",
+    "desc": "like ~~grep~~ UBER, but for binaries",
+    "star": "1.4k",
+    "keywords": "binary mach-o elf grep portable-executable objdump"
+  },
+  {
+    "url": "https://github.com/nix-rust/nix",
+    "repo": "nix",
+    "desc": "Rust friendly bindings to *nix APIs",
+    "star": "1.4k",
+    "keywords": "libc rust-bindings rust unix"
+  },
+  {
+    "url": "https://github.com/RedBeardLab/rediSQL",
+    "repo": "rediSQL",
+    "desc": "Redis module that provides a completely functional SQL database",
+    "star": "1.4k",
+    "keywords": "redisql rust redis sql in-memory sqlite3"
+  },
+  {
+    "url": "https://github.com/awslabs/aws-lambda-rust-runtime",
+    "repo": "aws-lambda-rust-runtime",
+    "desc": "A Rust runtime for AWS Lambda",
+    "star": "1.4k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/dgrunwald/rust-cpython",
+    "repo": "rust-cpython",
+    "desc": "Rust <-> Python bindings",
+    "star": "1.3k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/dalance/procs",
+    "repo": "procs",
+    "desc": "A modern replacement for ps written in Rust",
+    "star": "1.3k",
+    "keywords": "rust cli process"
+  },
+  {
+    "url": "https://github.com/Aloxaf/silicon",
+    "repo": "silicon",
+    "desc": "Create beautiful image of your source code.",
+    "star": "1.3k",
+    "keywords": "carbon rust snippets presentation"
+  },
+  {
+    "url": "https://github.com/rust-unofficial/too-many-lists",
+    "repo": "too-many-lists",
+    "desc": "Learn Rust by writing Entirely Too Many linked lists",
+    "star": "1.3k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/ron-rs/ron",
+    "repo": "ron",
+    "desc": "Rusty Object Notation",
+    "star": "1.3k",
+    "keywords": "rust serialization configs data-format"
+  },
+  {
+    "url": "https://github.com/makepad/makepad",
+    "repo": "makepad",
+    "desc": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 lin…",
+    "star": "1.3k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/murarth/rusti",
+    "repo": "rusti",
+    "desc": "REPL for the Rust programming language",
+    "star": "1.3k",
+    "keywords": "repl rust"
+  },
+  {
+    "url": "https://github.com/calebwin/emu",
+    "repo": "emu",
+    "desc": "The write-once-run-anywhere GPGPU library for Rust",
+    "star": "1.3k",
+    "keywords": "emu rust gpu gpgpu gpu-acceleration gpu-computing gpu-programming"
+  },
+  {
+    "url": "https://github.com/vislyhq/stretch",
+    "repo": "stretch",
+    "desc": "High performance flexbox implementation written in rust",
+    "star": "1.3k",
+    "keywords": "rust flexbox cross-platform android ios"
+  },
+  {
+    "url": "https://github.com/nbp/holyjit",
+    "repo": "holyjit",
+    "desc": "Generic purpose Just-In-time compiler for Rust.",
+    "star": "1.3k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/gtk-rs/gtk",
+    "repo": "gtk",
+    "desc": "GTK+ 3.x bindings and wrappers for Rust",
+    "star": "1.3k",
+    "keywords": " 1.3k\n Rust\nUpdated on 17 Oct"
+  },
+  {
+    "url": "https://github.com/rslint/rslint",
+    "repo": "rslint",
+    "desc": "A (WIP) Extremely fast JavaScript linter and Rust crate",
+    "star": "1.3k",
+    "keywords": "parallel javascript-linter rust javascript parser linter"
+  },
+  {
+    "url": "https://github.com/AdamNiederer/faster",
+    "repo": "faster",
+    "desc": "SIMD for humans",
+    "star": "1.3k",
+    "keywords": "cross-platform optimization simd intrinsics"
+  },
+  {
+    "url": "https://github.com/libpnet/libpnet",
+    "repo": "libpnet",
+    "desc": "Cross-platform, low level networking using the Rust programming language.",
+    "star": "1.3k",
+    "keywords": "rust libpnet transport-protocols packets cross-platform networking winpcap datalink"
+  },
+  {
+    "url": "https://github.com/rcore-os/rCore",
+    "repo": "rCore",
+    "desc": "Rust version of THU uCore OS. Linux compatible.",
+    "star": "1.3k",
+    "keywords": "rust mips x86-64 osdev riscv aarch64"
+  },
+  {
+    "url": "https://github.com/sozu-proxy/sozu",
+    "repo": "sozu",
+    "desc": "Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to k…",
+    "star": "1.2k",
+    "keywords": "rust http security performance proxy http-proxy"
+  },
+  {
+    "url": "https://github.com/gfx-rs/wgpu-rs",
+    "repo": "wgpu-rs",
+    "desc": "Rust bindings to wgpu native library",
+    "star": "1.2k",
+    "keywords": "webgpu rust wrapper"
+  },
+  {
+    "url": "https://github.com/tikv/grpc-rs",
+    "repo": "grpc-rs",
+    "desc": "The gRPC library for Rust built on C Core library and futures",
+    "star": "1.2k",
+    "keywords": "grpc rust"
+  },
+  {
+    "url": "https://github.com/chrisdickinson/git-rs",
+    "repo": "git-rs",
+    "desc": "git, implemented in rust, for fun and education 🦀",
+    "star": "1.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/RazrFalcon/svgcleaner",
+    "repo": "svgcleaner",
+    "desc": "svgcleaner could help you to clean up your SVG files from the unnecessary data.",
+    "star": "1.2k",
+    "keywords": "svg rust cleaner"
+  },
+  {
+    "url": "https://github.com/danburkert/prost",
+    "repo": "prost",
+    "desc": "PROST! a Protocol Buffers implementation for the Rust Language",
+    "star": "1.2k",
+    "keywords": "rust protobuf"
+  },
+  {
+    "url": "https://github.com/EmbarkStudios/texture-synthesis",
+    "repo": "texture-synthesis",
+    "desc": "🎨 Example-based texture synthesis written in Rust 🦀",
+    "star": "1.2k",
+    "keywords": "texture-synthesis inpaint cli rust hacktoberfest"
+  },
+  {
+    "url": "https://github.com/godot-rust/godot-rust",
+    "repo": "godot-rust",
+    "desc": "Rust bindings for GDNative",
+    "star": "1.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/nical/lyon",
+    "repo": "lyon",
+    "desc": "2D graphics rendering on the GPU in rust using path tessellation.",
+    "star": "1.2k",
+    "keywords": " 1.2k\n Rust\nUpdated on 15 Oct\n5 issues need help"
+  },
+  {
+    "url": "https://github.com/allthemusicllc/atm-cli",
+    "repo": "atm-cli",
+    "desc": "Command line tool for generating and working with MIDI files.",
+    "star": "1.2k",
+    "keywords": "music rust midi public-domain creative-commons"
+  },
+  {
+    "url": "https://github.com/mullvad/mullvadvpn-app",
+    "repo": "mullvadvpn-app",
+    "desc": "The Mullvad VPN client app for desktop and mobile",
+    "star": "1.2k",
+    "keywords": "openvpn electron nodejs rust vpn wireguard"
+  },
+  {
+    "url": "https://github.com/Mercateo/rust-for-node-developers",
+    "repo": "rust-for-node-developers",
+    "desc": "An introduction to the Rust programming language for Node developers.",
+    "star": "1.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/cswinter/LocustDB",
+    "repo": "LocustDB",
+    "desc": "Massively parallel, high performance analytics database that will rapidly devour all of your data.",
+    "star": "1.2k",
+    "keywords": "rust database analytics"
+  },
+  {
+    "url": "https://github.com/PumpkinDB/PumpkinDB",
+    "repo": "PumpkinDB",
+    "desc": "Immutable Ordered Key-Value Database Engine",
+    "star": "1.2k",
+    "keywords": "storage rust query database key-value event-sourcing indexing concatenative forth"
+  },
+  {
+    "url": "https://github.com/erikgrinaker/toydb",
+    "repo": "toydb",
+    "desc": "Distributed SQL database in Rust, written as a learning project",
+    "star": "1.2k",
+    "keywords": "sql rust database raft mvcc distributed"
+  },
+  {
+    "url": "https://github.com/rust-lang/hashbrown",
+    "repo": "hashbrown",
+    "desc": "Rust port of Google's SwissTable hash map",
+    "star": "1.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/serenity-rs/serenity",
+    "repo": "serenity",
+    "desc": "A Rust library for the Discord API.",
+    "star": "1.2k",
+    "keywords": "discord-api rust discord hacktoberfest"
+  },
+  {
+    "url": "https://github.com/ClementTsang/bottom",
+    "repo": "bottom",
+    "desc": "Yet another cross-platform graphical process/system monitor.",
+    "star": "1.2k",
+    "keywords": "bottom rust cli terminal monitoring cross-platform tui top btm"
+  },
+  {
+    "url": "https://github.com/databricks/click",
+    "repo": "click",
+    "desc": "The \"Command Line Interactive Controller for Kubernetes\"",
+    "star": "1.2k",
+    "keywords": "rust cli kuberentes"
+  },
+  {
+    "url": "https://github.com/servo/html5ever",
+    "repo": "html5ever",
+    "desc": "High-performance browser-grade HTML5 parser",
+    "star": "1.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/mmstick/parallel",
+    "repo": "parallel",
+    "desc": "This project now lives on in a rewrite at https://gitlab.redox-os.org/redox-os/parallel",
+    "star": "1.2k",
+    "keywords": "rust command-line-app parallel parallel-computing"
+  },
+  {
+    "url": "https://github.com/intermezzOS/kernel",
+    "repo": "kernel",
+    "desc": "A hobby operating system, in Rust",
+    "star": "1.2k",
+    "keywords": " 1.2k\n Rust\nUpdated on 28 Oct 2019\n1 issue needs help"
+  },
+  {
+    "url": "https://github.com/fitzgen/dodrio",
+    "repo": "dodrio",
+    "desc": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.",
+    "star": "1.2k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/RedisJSON/RedisJSON",
+    "repo": "RedisJSON",
+    "desc": "RedisJSON - a JSON data type for Redis",
+    "star": "1.2k",
+    "keywords": "redisjson redis json document-store rejson"
+  },
+  {
+    "url": "https://github.com/vhakulinen/gnvim",
+    "repo": "gnvim",
+    "desc": "GUI for neovim, without any web bloat",
+    "star": "1.2k",
+    "keywords": "neovim rust gui gtk ui nvim text-editor neovim-guis"
+  },
+  {
+    "url": "https://github.com/ivanceras/sauron",
+    "repo": "sauron",
+    "desc": "Sauron is an html web framework for building web-apps. It is heavily inspired by elm.",
+    "star": "1.2k",
+    "keywords": "html web dom elm vdom"
+  },
+  {
+    "url": "https://github.com/zboxfs/zbox",
+    "repo": "zbox",
+    "desc": "Zero-details, privacy-focused in-app file system.",
+    "star": "1.2k",
+    "keywords": "libsodium storage rust privacy crypto encryption filesystem fs zbox"
+  },
+  {
+    "url": "https://github.com/passcod/cargo-watch",
+    "repo": "cargo-watch",
+    "desc": "🔭🚢 Watches over your Cargo project's source.",
+    "star": "1.2k",
+    "keywords": "rust watch-files cargo developer-tools cargo-command"
+  },
+  {
+    "url": "https://github.com/djc/askama",
+    "repo": "askama",
+    "desc": "Type-safe, compiled Jinja-like templates for Rust",
+    "star": "1.1k",
+    "keywords": "rust jinja2 templating rust-library custom-derive"
+  },
+  {
+    "url": "https://github.com/housleyjk/ws-rs",
+    "repo": "ws-rs",
+    "desc": "Lightweight, event-driven WebSockets for Rust.",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/jonhoo/rust-evmap",
+    "repo": "rust-evmap",
+    "desc": "A lock-free, eventually consistent, concurrent multi-value map.",
+    "star": "1.1k",
+    "keywords": "rust concurrency multithreading hashmap lock-free"
+  },
+  {
+    "url": "https://github.com/tower-rs/tower",
+    "repo": "tower",
+    "desc": "async fn(Request) -> Result<Response, Error>",
+    "star": "1.1k",
+    "keywords": "tower rust middleware"
+  },
+  {
+    "url": "https://github.com/retep998/winapi-rs",
+    "repo": "winapi-rs",
+    "desc": "Rust bindings to Windows API",
+    "star": "1.1k",
+    "keywords": "windows rust winapi ffi"
+  },
+  {
+    "url": "https://github.com/crev-dev/cargo-crev",
+    "repo": "cargo-crev",
+    "desc": "A cryptographically verifiable code review system for the cargo (Rust) package manager.",
+    "star": "1.1k",
+    "keywords": "trust review security scalable code decentralized p2p code-review"
+  },
+  {
+    "url": "https://github.com/emilk/egui",
+    "repo": "egui",
+    "desc": "egui: Immediate mode GUI written in Rust, made for WASM",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/dtolnay/thiserror",
+    "repo": "thiserror",
+    "desc": "derive(Error) for struct and enum error types",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/citahub/cita",
+    "repo": "cita",
+    "desc": "A high performance blockchain kernel for enterprise users.",
+    "star": "1.1k",
+    "keywords": "blockchain enterprise-users rust consensus consortium"
+  },
+  {
+    "url": "https://github.com/imgui-rs/imgui-rs",
+    "repo": "imgui-rs",
+    "desc": "Rust bindings for Dear ImGui",
+    "star": "1.1k",
+    "keywords": "rust gui imgui rust-library"
+  },
+  {
+    "url": "https://github.com/PistonDevelopers/dyon",
+    "repo": "dyon",
+    "desc": "A rusty dynamically typed scripting language",
+    "star": "1.1k",
+    "keywords": "dyon dynamic scripting-language"
+  },
+  {
+    "url": "https://github.com/Amanieu/parking_lot",
+    "repo": "parking_lot",
+    "desc": "Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization p…",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/capnproto/capnproto-rust",
+    "repo": "capnproto-rust",
+    "desc": "Cap'n Proto for Rust",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/TimelyDataflow/differential-dataflow",
+    "repo": "differential-dataflow",
+    "desc": "An implementation of differential dataflow using timely dataflow on Rust.",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/tokio-rs/tracing",
+    "repo": "tracing",
+    "desc": "Application level tracing for Rust.",
+    "star": "1.1k",
+    "keywords": "rust logging tracing rust-lang logging-library diagnostics logging-facade logging-and-metrics"
+  },
+  {
+    "url": "https://github.com/AtheMathmo/rusty-machine",
+    "repo": "rusty-machine",
+    "desc": "Machine Learning library for Rust",
+    "star": "1.1k",
+    "keywords": "machine-learning rust"
+  },
+  {
+    "url": "https://github.com/async-graphql/async-graphql",
+    "repo": "async-graphql",
+    "desc": "A GraphQL server library implemented in Rust",
+    "star": "1.1k",
+    "keywords": "graphql server rust-lang async-await rust-crate"
+  },
+  {
+    "url": "https://github.com/petgraph/petgraph",
+    "repo": "petgraph",
+    "desc": "Graph data structure library for Rust.",
+    "star": "1.1k",
+    "keywords": "rust graph-algorithms"
+  },
+  {
+    "url": "https://github.com/rust-itertools/itertools",
+    "repo": "itertools",
+    "desc": "Extra iterator adaptors, iterator methods, free functions, and macros.",
+    "star": "1.1k",
+    "keywords": "rust iterators"
+  },
+  {
+    "url": "https://github.com/plietar/librespot",
+    "repo": "librespot",
+    "desc": "Open Source Spotify client library",
+    "star": "1.1k",
+    "keywords": "spotify rust spotify-connect"
+  },
+  {
+    "url": "https://github.com/stepancheg/grpc-rust",
+    "repo": "grpc-rust",
+    "desc": "Rust implementation of gRPC",
+    "star": "1.1k",
+    "keywords": "protobuf http2 grpc tokio-rs"
+  },
+  {
+    "url": "https://github.com/fishinabarrel/linux-kernel-module-rust",
+    "repo": "linux-kernel-module-rust",
+    "desc": "Framework for writing Linux kernel modules in safe Rust",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/38/plotters",
+    "repo": "plotters",
+    "desc": "A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀",
+    "star": "1.1k",
+    "keywords": "rust data-plotting visualization science plot webassembly graphing plotting rust-crate"
+  },
+  {
+    "url": "https://github.com/solana-labs/solana",
+    "repo": "solana",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "star": "1.1k",
+    "keywords": "solana rustc rust bitcoin blockchain ledger performance-blockchain"
+  },
+  {
+    "url": "https://github.com/facebookincubator/fastmod",
+    "repo": "fastmod",
+    "desc": "A fast partial replacement for the codemod tool",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/orhun/kmon",
+    "repo": "kmon",
+    "desc": "Linux Kernel Manager and Activity Monitor 🐧💻",
+    "star": "1.1k",
+    "keywords": "linux-kernel kernel-modules kernel-activities kernel-information linux monitoring management tui hacktoberfest kmon"
+  },
+  {
+    "url": "https://github.com/oracle/railcar",
+    "repo": "railcar",
+    "desc": "RailCar: Rust implementation of the Open Containers Initiative oci-runtime",
+    "star": "1.1k",
+    "keywords": "docker containers"
+  },
+  {
+    "url": "https://github.com/yingDev/Tickeys",
+    "repo": "Tickeys",
+    "desc": "Instant audio feedback for typing. macOS version. (Rust)",
+    "star": "1.1k",
+    "keywords": "rust macos"
+  },
+  {
+    "url": "https://github.com/square/sudo_pair",
+    "repo": "sudo_pair",
+    "desc": "Plugin for sudo that requires another human to approve and monitor privileged sudo sessions",
+    "star": "1.1k",
+    "keywords": "linux rust security authentication pam sudo compliance pairing"
+  },
+  {
+    "url": "https://github.com/rcoh/angle-grinder",
+    "repo": "angle-grinder",
+    "desc": "Slice and dice logs on the command line",
+    "star": "1.1k",
+    "keywords": "rust analytics logging cli-app"
+  },
+  {
+    "url": "https://github.com/bodil/im-rs",
+    "repo": "im-rs",
+    "desc": "Assorted immutable collection datatypes for Rust",
+    "star": "1.1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/dtolnay/syn",
+    "repo": "syn",
+    "desc": "Parser for Rust source code",
+    "star": "1k",
+    "keywords": "proc-macro"
+  },
+  {
+    "url": "https://github.com/redox-os/ion",
+    "repo": "ion",
+    "desc": "Mirror of https://gitlab.redox-os.org/redox-os/ion",
+    "star": "1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rust-lang-nursery/lazy-static.rs",
+    "repo": "lazy-static.rs",
+    "desc": "A small macro for defining lazy evaluated static variables in Rust.",
+    "star": "1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/willdoescode/nat",
+    "repo": "nat",
+    "desc": "⚡️ nat - the 'ls' replacement you never knew you needed⚡️",
+    "star": "1k",
+    "keywords": "nat rust cli open-source zshrc rust-lang cargo easy-to-use command-line-tool ls"
+  },
+  {
+    "url": "https://github.com/dbrgn/tealdeer",
+    "repo": "tealdeer",
+    "desc": "A very fast implementation of tldr in Rust.",
+    "star": "1k",
+    "keywords": "tldr rust hacktoberfest"
+  },
+  {
+    "url": "https://github.com/agrinman/tunnelto",
+    "repo": "tunnelto",
+    "desc": "Expose your local web server to the internet with a public URL.",
+    "star": "1k",
+    "keywords": "expose rust tunnel localhost async-io"
+  },
+  {
+    "url": "https://github.com/svenstaro/miniserve",
+    "repo": "miniserve",
+    "desc": "🌟 For when you really just want to serve some files over HTTP right now!",
+    "star": "1k",
+    "keywords": "cli server command-line http-server command-line-tool static-files serve"
+  },
+  {
+    "url": "https://github.com/notify-rs/notify",
+    "repo": "notify",
+    "desc": "🔭 Cross-platform filesystem notification library for Rust.",
+    "star": "1k",
+    "keywords": "rust cross-platform filesystem watcher filesystem-events"
+  },
+  {
+    "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+    "repo": "cloud-hypervisor",
+    "desc": "A rust-vmm based cloud hypervisor",
+    "star": "1k",
+    "keywords": "rust-vmm cloud-workloads virtualization kvm"
+  },
+  {
+    "url": "https://github.com/shssoichiro/oxipng",
+    "repo": "oxipng",
+    "desc": "Multithreaded PNG optimizer written in Rust",
+    "star": "1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/mozilla/neqo",
+    "repo": "neqo",
+    "desc": "NOT_FOUND",
+    "star": "NOT_FOUND",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/exonum/exonum",
+    "repo": "exonum",
+    "desc": "An extensible open-source framework for creating private/permissioned blockchain applications",
+    "star": "1k",
+    "keywords": "rust cryptography database bitcoin blockchain p2p byzantine consensus-algorithm"
+  },
+  {
+    "url": "https://github.com/slog-rs/slog",
+    "repo": "slog",
+    "desc": "Structured, contextual, extensible, composable logging for Rust",
+    "star": "1k",
+    "keywords": "rust ecosystem logging logging-library structured-logging hierarchical-loggers slog-rs contextual"
+  },
+  {
+    "url": "https://github.com/servo/bincode",
+    "repo": "bincode",
+    "desc": "A binary encoder / decoder implementation in Rust.",
+    "star": "1k",
+    "keywords": "encoding rust serialization binary"
+  },
+  {
+    "url": "https://github.com/hackndev/zinc",
+    "repo": "zinc",
+    "desc": "The bare metal stack for rust",
+    "star": "1k",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/koute/cargo-web",
+    "repo": "cargo-web",
+    "desc": "A Cargo subcommand for the client-side Web",
+    "star": "1k",
+    "keywords": "rust web webassembly emscripten asmjs webasm"
+  },
+  {
+    "url": "https://github.com/Nukesor/pueue",
+    "repo": "pueue",
+    "desc": "🌠 Manage your shell commands.",
+    "star": "1k",
+    "keywords": "rust command-line daemon command-line-tool hacktoberfest shell-queue queue-tasks queue-manager"
+  },
+  {
+    "url": "https://github.com/raphlinus/pulldown-cmark",
+    "repo": "pulldown-cmark",
+    "desc": "NOT_FOUND",
+    "star": "NOT_FOUND",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/DaGenix/rust-crypto",
+    "repo": "rust-crypto",
+    "desc": "A (mostly) pure-Rust implementation of various cryptographic algorithms.",
+    "star": "994",
+    "keywords": " 994\n Rust\nUpdated on 21 Oct"
+  },
+  {
+    "url": "https://github.com/xd009642/tarpaulin",
+    "repo": "tarpaulin",
+    "desc": "A code coverage tool for Rust projects",
+    "star": "993",
+    "keywords": "tarpaulin coverage-reporting cargo rust coverage-report hacktoberfest"
+  },
+  {
+    "url": "https://github.com/rabite0/hunter",
+    "repo": "hunter",
+    "desc": "The fastest file manager in the galaxy!",
+    "star": "990",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/xacrimon/dashmap",
+    "repo": "dashmap",
+    "desc": "Blazing fast concurrent HashMap for Rust.",
+    "star": "983",
+    "keywords": "data-structures hashmap concurrent-programming concurrent concurrent-map hashtable concurrent-data-structure"
+  },
+  {
+    "url": "https://github.com/tomaka/redshirt",
+    "repo": "redshirt",
+    "desc": "🧑‍🔬 Operating system",
+    "star": "978",
+    "keywords": "wasm rust kernel peer-to-peer"
+  },
+  {
+    "url": "https://github.com/BurntSushi/fst",
+    "repo": "fst",
+    "desc": "Represent large sets and maps compactly with finite state transducers.",
+    "star": "977",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/lunaryorn/mdcat",
+    "repo": "mdcat",
+    "desc": "cat for markdown",
+    "star": "973",
+    "keywords": "iterm2 cat markdown rust terminal"
+  },
+  {
+    "url": "https://github.com/rust-lang/chalk",
+    "repo": "chalk",
+    "desc": "An implementation and definition of the Rust trait system using a PROLOG-like logic solver",
+    "star": "971",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/wasmerio/wasmer-python",
+    "repo": "wasmer-python",
+    "desc": "🐍🕸 WebAssembly runtime for Python",
+    "star": "962",
+    "keywords": "rust python webassembly wasm python-extension"
+  },
+  {
+    "url": "https://github.com/rust-fuzz/afl.rs",
+    "repo": "afl.rs",
+    "desc": "🐇 Fuzzing Rust code with American Fuzzy Lop",
+    "star": "961",
+    "keywords": "afl fuzz-testing rust fuzzing"
+  },
+  {
+    "url": "https://github.com/holochain/holochain-rust",
+    "repo": "holochain-rust",
+    "desc": "DEPRECATED. The Holochain framework implemented in rust with a redux style internal state-model.",
+    "star": "960",
+    "keywords": "rust blockchain wasm dht dapps holochain"
+  },
+  {
+    "url": "https://github.com/8051Enthusiast/regex2fat",
+    "repo": "regex2fat",
+    "desc": "Turn your favourite regex into FAT32",
+    "star": "944",
+    "keywords": "regex fat32"
+  },
+  {
+    "url": "https://github.com/rust-lang/log",
+    "repo": "log",
+    "desc": "Logging implementation for Rust",
+    "star": "942",
+    "keywords": "logging rust-library"
+  },
+  {
+    "url": "https://github.com/RazrFalcon/cargo-bloat",
+    "repo": "cargo-bloat",
+    "desc": "Find out what takes most of the space in your executable.",
+    "star": "941",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/lambda-fairy/maud",
+    "repo": "maud",
+    "desc": "📝 Compile-time HTML templates for Rust",
+    "star": "939",
+    "keywords": "rust template-engine macro"
+  },
+  {
+    "url": "https://github.com/maidsafe-archive/crust",
+    "repo": "crust",
+    "desc": "Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / d…",
+    "star": "934",
+    "keywords": " 934\n Rust\nUpdated on 4 Jun 2019"
+  },
+  {
+    "url": "https://github.com/carllerche/tower-web",
+    "repo": "tower-web",
+    "desc": "A fast, boilerplate free, web framework for Rust",
+    "star": "929",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/http-rs/surf",
+    "repo": "surf",
+    "desc": "Fast and friendly HTTP client framework for async Rust",
+    "star": "926",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/DataDog/glommio",
+    "repo": "glommio",
+    "desc": "Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application…",
+    "star": "925",
+    "keywords": "rust linux iouring thread-per-core"
+  },
+  {
+    "url": "https://github.com/mbrubeck/robinson",
+    "repo": "robinson",
+    "desc": "A toy web rendering engine",
+    "star": "922",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/linkerd/linkerd2-proxy",
+    "repo": "linkerd2-proxy",
+    "desc": "A purpose-built proxy for the Linkerd service mesh. Written in Rust.",
+    "star": "921",
+    "keywords": "rust cncf service-mesh linkerd"
+  },
+  {
+    "url": "https://github.com/ballista-compute/ballista",
+    "repo": "ballista",
+    "desc": "Distributed compute platform implemented in Rust, using Apache Arrow memory model.",
+    "star": "921",
+    "keywords": "arrow rust spark kotlin java kubernetes scala jvm distributed dataframe datafusion"
+  },
+  {
+    "url": "https://github.com/trishume/syntect",
+    "repo": "syntect",
+    "desc": "Rust library for syntax highlighting using Sublime Text syntax definitions.",
+    "star": "921",
+    "keywords": "syntax-highlighting crates"
+  },
+  {
+    "url": "https://github.com/p-e-w/ternimal",
+    "repo": "ternimal",
+    "desc": "Simulate a lifeform in the terminal",
+    "star": "913",
+    "keywords": "rust art macos linux terminal"
+  },
+  {
+    "url": "https://github.com/mun-lang/mun",
+    "repo": "mun",
+    "desc": "Source code for the Mun language and runtime.",
+    "star": "911",
+    "keywords": "language rust gamedev hot-reloading scripting hacktoberfest embedable"
+  },
+  {
+    "url": "https://github.com/Zokrates/ZoKrates",
+    "repo": "ZoKrates",
+    "desc": "A toolbox for zkSNARKs on Ethereum",
+    "star": "907",
+    "keywords": "zksnarks ethereum language zero-knowledge snark verifiable-computation"
+  },
+  {
+    "url": "https://github.com/amethyst/legion",
+    "repo": "legion",
+    "desc": "High performance Rust ECS library",
+    "star": "907",
+    "keywords": "ecs rust"
+  },
+  {
+    "url": "https://github.com/rust-lang/libc",
+    "repo": "libc",
+    "desc": "Raw bindings to platform APIs for Rust",
+    "star": "903",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rusqlite/rusqlite",
+    "repo": "rusqlite",
+    "desc": "Ergonomic bindings to SQLite for Rust",
+    "star": "902",
+    "keywords": "rust wrapper sqlite bindings"
+  },
+  {
+    "url": "https://github.com/crossterm-rs/crossterm",
+    "repo": "crossterm",
+    "desc": "Cross platform terminal library rust",
+    "star": "898",
+    "keywords": "cross-platform console color terminal input tui cursor"
+  },
+  {
+    "url": "https://github.com/RustAudio/cpal",
+    "repo": "cpal",
+    "desc": "Cross-platform audio I/O library in pure Rust",
+    "star": "896",
+    "keywords": "audio rust"
+  },
+  {
+    "url": "https://github.com/oakes/SolidOak",
+    "repo": "SolidOak",
+    "desc": "An IDE for Rust",
+    "star": "896",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/maciejhirsz/logos",
+    "repo": "logos",
+    "desc": "Create ridiculously fast Lexers",
+    "star": "895",
+    "keywords": "lexer rust parser parsing lexer-generator"
+  },
+  {
+    "url": "https://github.com/cobalt-org/cobalt.rs",
+    "repo": "cobalt.rs",
+    "desc": "Static site generator written in Rust",
+    "star": "892",
+    "keywords": "cobalt rust static-site-generator travis-ci gitlab-ci"
+  },
+  {
+    "url": "https://github.com/RazrFalcon/resvg",
+    "repo": "resvg",
+    "desc": "An SVG rendering library.",
+    "star": "891",
+    "keywords": "svg render"
+  },
+  {
+    "url": "https://github.com/lunatic-lang/lunatic",
+    "repo": "lunatic",
+    "desc": "The Lunatic VM",
+    "star": "890",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/ozkriff/zemeroth",
+    "repo": "zemeroth",
+    "desc": "😠⚔️😈 A minimalistic 2D turn-based tactical game in Rust",
+    "star": "885",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rustasync/runtime",
+    "repo": "runtime",
+    "desc": "Empowering everyone to build asynchronous software",
+    "star": "884",
+    "keywords": " 884\n Rust\nUpdated on 30 Oct 2019"
+  },
+  {
+    "url": "https://github.com/rust-windowing/android-rs-glue",
+    "repo": "android-rs-glue",
+    "desc": "Glue between Rust and Android",
+    "star": "881",
+    "keywords": "android rust"
+  },
+  {
+    "url": "https://github.com/Marwes/combine",
+    "repo": "combine",
+    "desc": "A parser combinator library for Rust",
+    "star": "876",
+    "keywords": "rust parser parser-combinators zero-copy"
+  },
+  {
+    "url": "https://github.com/BurntSushi/rust-csv",
+    "repo": "rust-csv",
+    "desc": "A CSV parser for Rust, with Serde support.",
+    "star": "876",
+    "keywords": "csv rust library rust-library"
+  },
+  {
+    "url": "https://github.com/fengsp/pencil",
+    "repo": "pencil",
+    "desc": "A web application microframework for Rust",
+    "star": "875",
+    "keywords": " 875\n Rust\nUpdated on 30 Apr 2017"
+  },
+  {
+    "url": "https://github.com/google/autocxx",
+    "repo": "autocxx",
+    "desc": "NOT_FOUND",
+    "star": "NOT_FOUND",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/websockets-rs/rust-websocket",
+    "repo": "rust-websocket",
+    "desc": "A WebSocket (RFC6455) library written in Rust",
+    "star": "871",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/twitter/rezolus",
+    "repo": "rezolus",
+    "desc": "Systems performance telemetry",
+    "star": "870",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/andy-5/wslgit",
+    "repo": "wslgit",
+    "desc": "Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)",
+    "star": "869",
+    "keywords": "wsl wslgit vscode windows-subsystem git rust visual-studio-code windows-subsystem-linux bash-on-windows windows-subsystem-for-linux"
+  },
+  {
+    "url": "https://github.com/sebcrozet/kiss3d",
+    "repo": "kiss3d",
+    "desc": "Keep it simple, stupid 3d graphics engine for Rust.",
+    "star": "868",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/Ogeon/rustful",
+    "repo": "rustful",
+    "desc": "[OUTDATED] A light HTTP framework for Rust",
+    "star": "868",
+    "keywords": "rust rest web-framework"
+  },
+  {
+    "url": "https://github.com/Xudong-Huang/may",
+    "repo": "may",
+    "desc": "rust stackful coroutine library",
+    "star": "867",
+    "keywords": "rust generator async high-performance coroutines scalability fibers primitives io green-threads"
+  },
+  {
+    "url": "https://github.com/dtolnay/case-studies",
+    "repo": "case-studies",
+    "desc": "Analysis of various tricky Rust code",
+    "star": "864",
+    "keywords": " 864\n Rust\nUpdated on 25 Oct 2019"
+  },
+  {
+    "url": "https://github.com/mohanson/gameboy",
+    "repo": "gameboy",
+    "desc": "Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.",
+    "star": "863",
+    "keywords": "gameboy rust emulator"
+  },
+  {
+    "url": "https://github.com/eqrion/cbindgen",
+    "repo": "cbindgen",
+    "desc": "A project for generating C bindings from Rust code",
+    "star": "861",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/iovxw/rssbot",
+    "repo": "rssbot",
+    "desc": "中文 Telegram RSS 机器人",
+    "star": "861",
+    "keywords": "rss bot telegram telegram-bot feed chinese telegram-rss"
+  },
+  {
+    "url": "https://github.com/dimforge/ncollide",
+    "repo": "ncollide",
+    "desc": "2 and 3-dimensional collision detection library in Rust.",
+    "star": "859",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/archseer/enigma",
+    "repo": "enigma",
+    "desc": "A simple Erlang VM implementation in Rust",
+    "star": "857",
+    "keywords": "erlang erlang-vm rust vm elixir virtual-machine"
+  },
+  {
+    "url": "https://github.com/ufoscout/docker-compose-wait",
+    "repo": "docker-compose-wait",
+    "desc": "A simple script to wait for other docker images to be started while using docker-compose",
+    "star": "856",
+    "keywords": "docker docker-images dockerfile kubernetes synchronization containers wait sleep"
+  },
+  {
+    "url": "https://github.com/hyperium/h2",
+    "repo": "h2",
+    "desc": "HTTP 2.0 client & server implementation for Rust.",
+    "star": "850",
+    "keywords": "rust tokio http2"
+  },
+  {
+    "url": "https://github.com/dtolnay/proc-macro-workshop",
+    "repo": "proc-macro-workshop",
+    "desc": "Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",
+    "star": "849",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/apache/incubator-teaclave-sgx-sdk",
+    "repo": "incubator-teaclave-sgx-sdk",
+    "desc": "Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.",
+    "star": "842",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/LaurentMazare/tch-rs",
+    "repo": "tch-rs",
+    "desc": "Rust bindings for the C++ api of PyTorch.",
+    "star": "840",
+    "keywords": "pytorch rust machine-learning deep-learning neural-network"
+  },
+  {
+    "url": "https://github.com/target/lorri",
+    "repo": "lorri",
+    "desc": "Your project's nix-env",
+    "star": "835",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/silvia-odwyer/photon",
+    "repo": "photon",
+    "desc": "⚡ Rust/WebAssembly image processing library",
+    "star": "834",
+    "keywords": "rust wasm webassembly image-processing image-manipulation rust-library hacktoberfest"
+  },
+  {
+    "url": "https://github.com/mehcode/config-rs",
+    "repo": "config-rs",
+    "desc": "⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications).",
+    "star": "829",
+    "keywords": "toml config rust json config-management configuration configuration-management"
+  },
+  {
+    "url": "https://github.com/zombodb/pgx",
+    "repo": "pgx",
+    "desc": "Build Postgres Extensions with Rust!",
+    "star": "829",
+    "keywords": "postgres rust postgresql rustlang postgresql-extension"
+  },
+  {
+    "url": "https://github.com/oreboot/oreboot",
+    "repo": "oreboot",
+    "desc": "oreboot is a fork of coreboot, with C removed, written in Rust.",
+    "star": "827",
+    "keywords": "oreboot oreboot-qemu rust hacktoberfest hacktoberfest2020 risc-varchitecture"
+  },
+  {
+    "url": "https://github.com/ZhangHanDong/tao-of-rust-codes",
+    "repo": "tao-of-rust-codes",
+    "desc": "《Rust编程之道》随书源码",
+    "star": "823",
+    "keywords": "rust tao-of-rust rust-study"
+  },
+  {
+    "url": "https://github.com/jonathandturner/rhai",
+    "repo": "rhai",
+    "desc": "Rhai - An embedded scripting language for Rust",
+    "star": "819",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/tummychow/git-absorb",
+    "repo": "git-absorb",
+    "desc": "git commit --fixup, but automatic",
+    "star": "818",
+    "keywords": "git rebase"
+  },
+  {
+    "url": "https://github.com/balena-io/wifi-connect",
+    "repo": "wifi-connect",
+    "desc": "Easy WiFi setup for Linux devices from your mobile phone or laptop",
+    "star": "816",
+    "keywords": "balena iot rpi raspberrypi wifi-hotspot resin-io wifi-ap"
+  },
+  {
+    "url": "https://github.com/kyren/luster",
+    "repo": "luster",
+    "desc": "An experimental Lua VM implemented in pure Rust",
+    "star": "816",
+    "keywords": " 816\n Rust\nUpdated on 19 Nov 2019"
+  },
+  {
+    "url": "https://github.com/sigp/lighthouse",
+    "repo": "lighthouse",
+    "desc": "Rust Ethereum 2.0 Client",
+    "star": "814",
+    "keywords": "casper ethereum sharding serenity proof-of-stake eth2 shasper"
+  },
+  {
+    "url": "https://github.com/japaric/xargo",
+    "repo": "xargo",
+    "desc": "The sysroot manager that lets you build and customize `std`",
+    "star": "806",
+    "keywords": "sysroot rust cargo bare-metal no-std cross-compilation"
+  },
+  {
+    "url": "https://github.com/dtolnay/cargo-expand",
+    "repo": "cargo-expand",
+    "desc": "Subcommand to show result of macro expansion",
+    "star": "806",
+    "keywords": "cargo"
+  },
+  {
+    "url": "https://github.com/sfackler/r2d2",
+    "repo": "r2d2",
+    "desc": "A generic connection pool for Rust",
+    "star": "806",
+    "keywords": " 806\n Rust\nUpdated on 3 Nov"
+  },
+  {
+    "url": "https://github.com/sonos/tract",
+    "repo": "tract",
+    "desc": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+    "star": "806",
+    "keywords": "onnx tensorflow rust artificial-intelligence neural-networks rust-library"
+  },
+  {
+    "url": "https://github.com/rustcc/writing-an-os-in-rust",
+    "repo": "writing-an-os-in-rust",
+    "desc": "《使用Rust编写操作系统》",
+    "star": "804",
+    "keywords": " 804\n Rust\nUpdated on 18 Oct"
+  },
+  {
+    "url": "https://github.com/void-rs/void",
+    "repo": "void",
+    "desc": "terminal-based personal organizer",
+    "star": "800",
+    "keywords": "sparkline priorities mind-mapping rust task terminal time-series task-tracker efficiency mindmaps task-framework text-editor personal-organizer organizer task-list terminal-based"
+  },
+  {
+    "url": "https://github.com/sagiegurari/cargo-make",
+    "repo": "cargo-make",
+    "desc": "Rust task runner and build tool.",
+    "star": "798",
+    "keywords": "cargo-plugins task-runner rust task coverage circleci build travis-ci build-automation gitlab-ci appveyor cargo travis build-tool make cargo-subcommand cargo-plugin azure-pipelines github-actions"
+  },
+  {
+    "url": "https://github.com/salsa-rs/salsa",
+    "repo": "salsa",
+    "desc": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.",
+    "star": "789",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/mitnk/cicada",
+    "repo": "cicada",
+    "desc": "A bash-like Unix shell written in Rust",
+    "star": "786",
+    "keywords": "cicada unix rust linux shell"
+  },
+  {
+    "url": "https://github.com/google/argh",
+    "repo": "argh",
+    "desc": "Rust derive-based argument parsing optimized for code size",
+    "star": "779",
+    "keywords": "argh positional-arguments subcommands rust argument-parser arguments rust-library"
+  },
+  {
+    "url": "https://github.com/rust-bio/rust-bio",
+    "repo": "rust-bio",
+    "desc": "This library provides implementations of many algorithms and data structures that are useful for bioinformatics. All …",
+    "star": "777",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/kevinmehall/rust-peg",
+    "repo": "rust-peg",
+    "desc": "Parsing Expression Grammar (PEG) parser generator for Rust",
+    "star": "777",
+    "keywords": "parsing-expression-grammars grammar rust parser-generator peg parsing"
+  },
+  {
+    "url": "https://github.com/brandur/redis-cell",
+    "repo": "redis-cell",
+    "desc": "A Redis module that provides rate limiting in Redis as a single command.",
+    "star": "774",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/atanunq/viu",
+    "repo": "viu",
+    "desc": "Simple terminal image viewer written in Rust.",
+    "star": "772",
+    "keywords": "rust cli terminal image-viewer"
+  },
+  {
+    "url": "https://github.com/d-unseductable/ruru",
+    "repo": "ruru",
+    "desc": "Native Ruby extensions written in Rust",
+    "star": "768",
+    "keywords": "ruby rust ruru mri native-ruby-extensions"
+  },
+  {
+    "url": "https://github.com/joncatanio/cannoli",
+    "repo": "cannoli",
+    "desc": "Cannoli Programming Language",
+    "star": "768",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rust-lang/git2-rs",
+    "repo": "git2-rs",
+    "desc": "libgit2 bindings for Rust",
+    "star": "763",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rustwasm/gloo",
+    "repo": "gloo",
+    "desc": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm",
+    "star": "759",
+    "keywords": " 759\n Rust\nUpdated on 5 May\n2 issues need help"
+  },
+  {
+    "url": "https://github.com/tsgates/rust.ko",
+    "repo": "rust.ko",
+    "desc": "A minimal Linux kernel module written in rust.",
+    "star": "758",
+    "keywords": " 758\n Rust\nUpdated on 3 Oct 2019"
+  },
+  {
+    "url": "https://github.com/gabdube/native-windows-gui",
+    "repo": "native-windows-gui",
+    "desc": "A light windows GUI toolkit for rust",
+    "star": "755",
+    "keywords": "native-windows-gui rust gui native"
+  },
+  {
+    "url": "https://github.com/rust-rocksdb/rust-rocksdb",
+    "repo": "rust-rocksdb",
+    "desc": "rust wrapper for rocksdb",
+    "star": "753",
+    "keywords": "rocksdb rust database rust-bindings"
+  },
+  {
+    "url": "https://github.com/near/nearcore",
+    "repo": "nearcore",
+    "desc": "Reference client for NEAR Protocol",
+    "star": "750",
+    "keywords": "rust blockchain webassembly"
+  },
+  {
+    "url": "https://github.com/gnzlbg/cargo-asm",
+    "repo": "cargo-asm",
+    "desc": "cargo subcommand showing the assembly or llvm-ir generated for Rust code",
+    "star": "746",
+    "keywords": "cargo-subcommand"
+  },
+  {
+    "url": "https://github.com/indradb/indradb",
+    "repo": "indradb",
+    "desc": "A graph database written in rust",
+    "star": "745",
+    "keywords": "rust database graph graph-processing graph-database"
+  },
+  {
+    "url": "https://github.com/rust-cli/human-panic",
+    "repo": "human-panic",
+    "desc": "😱 Panic messages for humans.",
+    "star": "743",
+    "keywords": "rust human-centered-design panic-hook"
+  },
+  {
+    "url": "https://github.com/rust-qt/ritual",
+    "repo": "ritual",
+    "desc": "Use C++ libraries from Rust",
+    "star": "742",
+    "keywords": "rust qt cpp crates rust-bindings rituals rust-crate cpp-bindings qt-generator rust-generator qt-crate"
+  },
+  {
+    "url": "https://github.com/kpcyrd/sn0int",
+    "repo": "sn0int",
+    "desc": "Semi-automatic OSINT framework and package manager",
+    "star": "740",
+    "keywords": "rust security intelligence security-audit osint lua location certificate-transparency bug-bounty pentesting recon security-scanner investigation reconnaissance osint-framework"
+  },
+  {
+    "url": "https://github.com/rust-embedded/discovery",
+    "repo": "discovery",
+    "desc": "Discover the world of microcontrollers through Rust!",
+    "star": "734",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/nervosnetwork/ckb",
+    "repo": "ckb",
+    "desc": "The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.",
+    "star": "733",
+    "keywords": "blockchain rust ckb nervos"
+  },
+  {
+    "url": "https://github.com/stepchowfun/toast",
+    "repo": "toast",
+    "desc": "Containerize your development and continuous integration environments. 🥂",
+    "star": "733",
+    "keywords": "docker continuous-integration ci containers build-tool build-system development-environment dev-environment"
+  },
+  {
+    "url": "https://github.com/imsnif/diskonaut",
+    "repo": "diskonaut",
+    "desc": "Terminal disk space navigator 🔭",
+    "star": "731",
+    "keywords": "disk-space visualization cli terminal navigator"
+  },
+  {
+    "url": "https://github.com/rcore-os/zCore",
+    "repo": "zCore",
+    "desc": "Reimplement Zircon microkernel in Rust.",
+    "star": "730",
+    "keywords": "zircon microkernel"
+  },
+  {
+    "url": "https://github.com/alexcrichton/futures-await",
+    "repo": "futures-await",
+    "desc": "NOT_FOUND",
+    "star": "NOT_FOUND",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/tokio-rs/loom",
+    "repo": "loom",
+    "desc": "Concurrency permutation testing tool for Rust.",
+    "star": "728",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/JasonShin/fp-core.rs",
+    "repo": "fp-core.rs",
+    "desc": "A library for functional programming in Rust",
+    "star": "727",
+    "keywords": "lambda-calculus hkt category-theory rust functional-programming monad functor monoid applicative homomorphism comonad morphism"
+  },
+  {
+    "url": "https://github.com/hecrj/coffee",
+    "repo": "coffee",
+    "desc": "An opinionated 2D game engine for Rust",
+    "star": "726",
+    "keywords": "rust game-engine game gamedev engine game-development 2d-game-engine"
+  },
+  {
+    "url": "https://github.com/penelopezone/rubyfmt",
+    "repo": "rubyfmt",
+    "desc": "Ruby Autoformatter!",
+    "star": "725",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/rust-random/rand",
+    "repo": "rand",
+    "desc": "A Rust library for random number generation.",
+    "star": "724",
+    "keywords": " 724\n Rust\nUpdated yesterday"
+  },
+  {
+    "url": "https://github.com/valeriansaliou/vigil",
+    "repo": "vigil",
+    "desc": "🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).",
+    "star": "723",
+    "keywords": "slack infrastructure-services infrastructure status microservices monitor monitoring statuspage email-notifications servers sms-notifications slack-notifications webhook-events vigil"
+  },
+  {
+    "url": "https://github.com/rustgd/cgmath",
+    "repo": "cgmath",
+    "desc": "A linear algebra and mathematics library for computer graphics.",
+    "star": "723",
+    "keywords": "computer-graphics linear-algebra simd rust matrix mathematics-library vector simd-vector"
+  },
+  {
+    "url": "https://github.com/mthom/scryer-prolog",
+    "repo": "scryer-prolog",
+    "desc": "A modern Prolog implementation written mostly in Rust.",
+    "star": "721",
+    "keywords": "rust prolog prolog-implementation prolog-interpreter"
+  },
+  {
+    "url": "https://github.com/docopt/docopt.rs",
+    "repo": "docopt.rs",
+    "desc": "Docopt for Rust (command line argument parser).",
+    "star": "721",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/headcrab-rs/headcrab",
+    "repo": "headcrab",
+    "desc": "A modern Rust debugging library 🦀",
+    "star": "720",
+    "keywords": "rust debugger rust-lang developer-tools symbolication rust-debugging"
+  },
+  {
+    "url": "https://github.com/AltSysrq/proptest",
+    "repo": "proptest",
+    "desc": "Hypothesis-like property testing for Rust",
+    "star": "719",
+    "keywords": " 719\n Rust\nUpdated on 28 Oct"
+  },
+  {
+    "url": "https://github.com/amethyst/rendy",
+    "repo": "rendy",
+    "desc": "State of the art \"build your own engine\" kit powered by gfx-hal",
+    "star": "716",
+    "keywords": "rust gamedev graphics vulkan gfx-rs renderer ash"
+  },
+  {
+    "url": "https://github.com/zhihu/rucene",
+    "repo": "rucene",
+    "desc": "Rust port of Lucene",
+    "star": "714",
+    "keywords": "lucene rust information-retrival"
+  },
+  {
+    "url": "https://github.com/H-M-H/Weylus",
+    "repo": "Weylus",
+    "desc": "Use your tablet as graphic tablet/touch screen on your computer.",
+    "star": "712",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/alexcrichton/toml-rs",
+    "repo": "toml-rs",
+    "desc": "A TOML encoding/decoding library for Rust",
+    "star": "710",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/cervus-v/cervus",
+    "repo": "cervus",
+    "desc": "The Cervus Subsystem for Linux",
+    "star": "710",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/sfackler/rust-openssl",
+    "repo": "rust-openssl",
+    "desc": "OpenSSL bindings for Rust",
+    "star": "709",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/Luminarys/synapse",
+    "repo": "synapse",
+    "desc": "Synapse BitTorrent Daemon",
+    "star": "707",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/spearow/juice",
+    "repo": "juice",
+    "desc": "The Hacker's Machine Learning Engine",
+    "star": "706",
+    "keywords": "juice cuda coaster rust machine-learning framework opencl agnostic hacktoberfest extinsible"
+  },
+  {
+    "url": "https://github.com/casperstorm/ajour",
+    "repo": "ajour",
+    "desc": "A World of Warcraft addon manager written in Rust.",
+    "star": "706",
+    "keywords": "addon-managers rust wow manager addon world-of-warcraft"
+  },
+  {
+    "url": "https://github.com/rust-lang-nursery/error-chain",
+    "repo": "error-chain",
+    "desc": "Error boilerplate for Rust",
+    "star": "703",
+    "keywords": " 703\n Rust\nUpdated on 13 Aug\n5 issues need help"
+  },
+  {
+    "url": "https://github.com/alexcrichton/cc-rs",
+    "repo": "cc-rs",
+    "desc": "Rust library for build scripts to compile C/C++ code into a Rust library",
+    "star": "703",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/tokio-rs/tokio-proto",
+    "repo": "tokio-proto",
+    "desc": "A network application framework for Rust",
+    "star": "703",
+    "keywords": " 703\n Rust\nUpdated on 2 Aug 2018"
+  },
+  {
+    "url": "https://github.com/sfackler/rust-phf",
+    "repo": "rust-phf",
+    "desc": "Compile time static maps for Rust",
+    "star": "700",
+    "keywords": "NOT_FOUND"
+  },
+  {
+    "url": "https://github.com/fcsonline/drill",
+    "repo": "drill",
+    "desc": "Drill is a HTTP load testing application written in Rust inspired by Ansible syntax",
+    "star": "698",
+    "keywords": "rust http ansible performance jmeter tester performance-testing"
+  },
+  {
+    "url": "https://github.com/endgameinc/xori",
+    "repo": "xori",
+    "desc": "Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode",
+    "star": "696",
+    "keywords": "NOT_FOUND"
+  }
+]
