@@ -1,2 +1,3 @@
-# rustlang_500_repositories
-this repository collect 500 repositories written in rust
+# home
+
+https://hibi221b.dev/rustlang_repos-3/
